@@ -1,0 +1,1638 @@
+,QuestionID,QuestionType,Query,SimlexPair,Answer1,Answer2,Answer3,Answer4,Answer5
+0,QID13819,IsA,orthodontist,dentist,monk,spouse,none,dentist,jerk
+1,QID13818,IsA,opponent,adversary,adversary,jerk,lover,none,gunman
+2,QID13815,SeenWith,teacher,rabbi,follower,rabbi,none,farmer,friend
+3,QID13815,SeenWith,teacher,friend,follower,rabbi,none,farmer,friend
+4,QID13814,IsA,orthodontist,dentist,millionaire,Christian,worker,dentist,none
+5,QID13817,SeenWith,guardian,mother,parent,apprentice,mentor,mother,none
+6,QID13816,SeenWith,mother,guardian,winner,none,consultant,Arab person,guardian
+7,QID13811,SeenWith,daughter,baby,buddy,baby,paranoid person,accountant,none
+8,QID13810,SeenWith,son,father,none,teacher,gunman,boss,father
+9,QID13813,IsA,baby,adult,none,adult,ambassador,lover,intern
+10,QID13812,SeenWith,father,son,none,son,socialist,sailor,mom
+11,QID12320,SeenWith,mother,friend,friend,villain,comedian,none,Asian
+12,QID12321,IsA,rabbi,minister,mayor,consultant,minister,mechanic,none
+13,QID12322,IsA,brother,father,archbishop,patriot,none,worker,father
+14,QID12323,IsA,rabbi,teacher,teacher,white woman,none,politician,toddler
+15,QID12324,IsA,daughter,baby,baby,none,employee,goon,principal
+16,QID12325,SeenWith,baby,adult,follower,racist,bride,none,adult
+17,QID12326,IsA,parent,father,manager,father,none,partner,economist
+18,QID12327,IsA,orthodontist,dentist,dentist,neighbor,none,parent,relative
+19,QID12328,SeenWith,mother,dad,none,architect,gunman,dad,genius
+20,QID12329,IsA,friend,mother,white man,mother,republican,maid,none
+21,QID13491,IsA,rabbi,minister,minister,boyfriend,tourist,middle class person,none
+22,QID13490,IsA,baby,daughter,daughter,chef,none,bishop,colleague
+23,QID13493,IsA,man,sentry,sentry,singer,none,reader,engineer
+24,QID13492,SeenWith,opponent,adversary,adversary,none,girl,partner,boss
+25,QID13495,SeenWith,friend,mother,mentor,mother,physician,hooker,none
+26,QID13494,IsA,father,man,man,white person,pastor,none,fan
+27,QID13497,IsA,father,brother,employee,socialist,brother,coach,none
+28,QID13496,SeenWith,daughter,baby,victim,none,bishop,farmer,baby
+29,QID13499,SeenWith,sentry,man,composer,none,man,mistress,senator
+30,QID13498,IsA,father,parent,parent,creator,none,executive,tutor
+31,QID12445,IsA,opponent,adversary,warrior,politician,stud,none,adversary
+32,QID12444,SeenWith,mother,wife,wife,drunk person,none,stranger,coach
+33,QID12447,SeenWith,dentist,orthodontist,artist,orthodontist,kid,surgeon,none
+34,QID12446,SeenWith,father,parent,parent,dad,none,follower,Asian
+35,QID12441,SeenWith,creator,maker,host,none,girlfriend,mentor,maker
+36,QID12440,SeenWith,rabbi,minister,spouse,minister,none,student,comedian
+37,QID12443,IsA,baby,adult,entrepreneur,cop,white woman,none,adult
+38,QID12442,IsA,baby,daughter,none,patriot,daughter,apprentice,senator
+39,QID12449,SeenWith,minister,rabbi,Muslim,poor person,rabbi,boxer,none
+40,QID12448,IsA,maker,creator,reader,academic,creator,princess,none
+41,QID13147,IsA,man,sentry,none,punk,child,sentry,husband
+42,QID13147,IsA,man,husband,none,punk,child,sentry,husband
+43,QID13147,IsA,man,child,none,punk,child,sentry,husband
+44,QID13146,SeenWith,daughter,baby,none,baby,mayor,tourist,juror
+45,QID13145,SeenWith,adversary,opponent,judge,none,opponent,intellectual,champion
+46,QID13144,SeenWith,guardian,mother,none,mother,punk,lesbian,sibling
+47,QID13143,IsA,parent,father,none,father,warrior,friend,writer
+48,QID13142,IsA,dentist,orthodontist,millionaire,gunman,none,orthodontist,colleague
+49,QID13141,IsA,sinner,saint,Clinton supporter,guardian,none,liberal,saint
+50,QID13140,SeenWith,mother,wife,American,none,wife,mechanic,Mexican
+51,QID13149,SeenWith,rabbi,minister,parent,minister,sailor,wife,none
+52,QID13148,SeenWith,mother,friend,bishop,none,fighter,friend,woman
+53,QID13002,SeenWith,maker,creator,athlete,creator,none,colonel,teenager
+54,QID13003,SeenWith,rabbi,teacher,teacher,none,doctor,groom,thug
+55,QID13000,IsA,creator,maker,maker,none,mentor,colleague,tutor
+56,QID13001,IsA,baby,daughter,lover,daughter,artist,none,expert
+57,QID13006,SeenWith,maker,creator,creator,tutor,none,extremist,instructor
+58,QID13007,IsA,sentry,man,toddler,none,boy,thug,man
+59,QID13004,IsA,daughter,baby,teacher,blogger,baby,gunman,none
+60,QID13005,IsA,mother,guardian,none,democrat,academic,artist,guardian
+61,QID12531,SeenWith,winner,candidate,none,candidate,fighter,manager,liar
+62,QID12530,IsA,father,daughter,musician,democrat,daughter,none,partner
+63,QID13008,IsA,dentist,colonel,Muslim,journalist,colonel,daughter,none
+64,QID13009,SeenWith,mother,dad,atheist,none,dad,tourist,princess
+65,QID12535,IsA,mother,dad,none,gunman,dad,archbishop,buddy
+66,QID12534,IsA,wife,mother,mother,soldier,none,child,thief
+67,QID12537,SeenWith,daughter,father,reader,princess,father,none,villain
+68,QID12536,SeenWith,mother,friend,Jew,friend,bully,boss,none
+69,QID12849,IsA,parent,father,monk,maid,fighter,father,none
+70,QID12848,IsA,mother,wife,wife,genius,none,expert,surgeon
+71,QID12841,IsA,maker,creator,Mexican,scientist,creator,chief,none
+72,QID12840,IsA,man,father,none,mechanic,father,genius,spouse
+73,QID12843,IsA,friend,mother,none,mother,lady,juror,patient
+74,QID12842,SeenWith,maker,creator,none,fighter,creator,liberal,baker
+75,QID12845,SeenWith,father,son,senator,actor,liberal,none,son
+76,QID12844,IsA,father,brother,brother,ambassador,fan,none,chairman
+77,QID12847,IsA,opponent,adversary,none,archbishop,Catholic,adversary,helper
+78,QID12846,IsA,sentry,man,none,tutor,coach,man,Trump supporter
+79,QID13316,IsA,opponent,adversary,toddler,adult,chief,none,adversary
+80,QID13317,SeenWith,teacher,rabbi,rabbi,mistress,addict,none,minority
+81,QID13314,IsA,sentry,man,mistress,man,hostage,husband,none
+82,QID13315,IsA,creator,maker,none,maker,democrat,conservative,son
+83,QID13312,IsA,baby,daughter,Clinton supporter,Arab person,Jew,none,daughter
+84,QID13313,SeenWith,man,father,wife,none,white woman,host,father
+85,QID13310,IsA,sinner,saint,leader,none,intellectual,saint,creator
+86,QID13311,IsA,maker,creator,creator,husband,hooker,none,apprentice
+87,QID13318,SeenWith,brother,father,employer,wife,stranger,none,father
+88,QID13319,SeenWith,mother,wife,customer,Arab person,wife,none,worker
+89,QID13736,SeenWith,rabbi,teacher,teacher,none,colleague,pastor,boy
+90,QID12333,SeenWith,sentry,man,none,man,extremist,intern,black person
+91,QID12332,IsA,father,son,principal,none,son,black woman,goon
+92,QID12331,IsA,guardian,mother,alcoholic,none,mother,attorney,writer
+93,QID12330,IsA,man,sentry,sentry,Mexican,extremist,bishop,none
+94,QID12337,SeenWith,minister,rabbi,African American,instructor,rabbi,Baptist,none
+95,QID12336,IsA,candidate,winner,girlfriend,winner,none,punk,kid
+96,QID12335,IsA,guardian,mother,mother,minority,none,minor,farmer
+97,QID12334,SeenWith,parent,father,none,father,fan,saint,lesbian
+98,QID12339,IsA,son,father,daughter,child,father,none,instructor
+99,QID12338,IsA,parent,father,American,blonde,father,none,host
+100,QID13792,IsA,sinner,saint,author,saint,chairman,none,priest
+101,QID13793,SeenWith,teacher,rabbi,criminal,republican,rabbi,boxer,none
+102,QID13790,SeenWith,father,daughter,daughter,patient,chef,bride,none
+103,QID13791,SeenWith,rabbi,minister,none,dad,comedian,black man,minister
+104,QID13796,SeenWith,mother,guardian,king,supervisor,son,none,guardian
+105,QID13797,IsA,father,daughter,daughter,liberal,Jew,none,worker
+106,QID13794,SeenWith,dad,mother,none,mother,socialist,Hispanic person,guy
+107,QID13795,SeenWith,rabbi,minister,lady,manager,minister,none,companion
+108,QID13798,SeenWith,dentist,colonel,colonel,innocent person,none,Catholic,goon
+109,QID13799,SeenWith,orthodontist,dentist,dentist,none,jerk,partner,relative
+110,QID13550,IsA,creator,maker,none,terrorist,democrat,maker,farmer
+111,QID13551,SeenWith,father,parent,companion,none,parent,nurse,athlete
+112,QID13552,IsA,friend,mother,tutor,mother,black man,none,mom
+113,QID13553,SeenWith,mother,guardian,none,kid,lover,teenager,guardian
+114,QID13554,IsA,teacher,rabbi,Trump supporter,principal,none,Mexican,rabbi
+115,QID13555,IsA,daughter,father,none,father,homosexual person,employee,king
+116,QID13556,IsA,rabbi,teacher,none,teacher,nurse,jerk,grandmother
+117,QID13557,SeenWith,adversary,opponent,white man,opponent,singer,extremist,none
+118,QID13558,IsA,candidate,winner,winner,celebrity,none,victim,apprentice
+119,QID13559,SeenWith,father,son,singer,none,engineer,son,pimp
+120,QID12831,IsA,son,father,black person,hooker,hero,father,none
+121,QID13178,IsA,baby,daughter,daughter,follower,buddy,geek,none
+122,QID13179,IsA,maker,creator,boyfriend,Hispanic person,buddy,creator,none
+123,QID13172,SeenWith,orthodontist,dentist,chief,physician,host,none,dentist
+124,QID13173,IsA,father,man,soldier,none,democrat,man,host
+125,QID13170,SeenWith,dentist,orthodontist,orthodontist,pimp,economist,sailor,none
+126,QID13171,SeenWith,mother,wife,boyfriend,wife,none,instructor,virgin
+127,QID13176,SeenWith,orthodontist,dentist,niece,none,buddy,dentist,democrat
+128,QID13177,SeenWith,baby,daughter,republican,liar,none,host,daughter
+129,QID13174,SeenWith,colonel,dentist,mom,none,dentist,orthodontist,boss
+130,QID13175,IsA,parent,father,boxer,poor person,none,physician,father
+131,QID13778,IsA,dentist,orthodontist,poor person,architect,orthodontist,Catholic,none
+132,QID13779,IsA,teacher,rabbi,mistress,rabbi,boxer,reporter,none
+133,QID13770,IsA,friend,mother,mother,CEO,boxer,none,lesbian
+134,QID13771,IsA,mother,guardian,white man,rich person,kid,none,guardian
+135,QID13772,SeenWith,sinner,saint,loser,intellectual,sailor,none,saint
+136,QID13773,SeenWith,father,man,none,man,colonel,mentor,fan
+137,QID13774,IsA,dentist,colonel,colonel,geek,none,Mexican,fan
+138,QID13775,IsA,mother,guardian,none,guardian,reporter,punk,friend
+139,QID13775,IsA,mother,friend,none,guardian,reporter,punk,friend
+140,QID13776,SeenWith,father,son,son,none,extremist,intellectual,priest
+141,QID13777,SeenWith,daughter,baby,supervisor,economist,consultant,none,baby
+142,QID13739,IsA,father,brother,tutor,jerk,none,brother,stranger
+143,QID13015,IsA,colonel,dentist,none,alcoholic,dentist,actress,doctor
+144,QID13014,SeenWith,baby,daughter,daughter,none,aunt,maid,secretary
+145,QID13017,IsA,candidate,winner,none,Mexican,winner,apprentice,attorney
+146,QID13016,IsA,dentist,colonel,none,colonel,lady,governor,soldier
+147,QID12548,IsA,mother,dad,surgeon,sailor,dad,none,fan
+148,QID12549,IsA,daughter,father,tutor,loser,sheriff,none,father
+149,QID13013,IsA,daughter,baby,white person,none,buddy,baby,boyfriend
+150,QID13012,IsA,orthodontist,dentist,punk,dentist,terrorist,none,sibling
+151,QID12544,SeenWith,parent,father,father,groom,musician,none,author
+152,QID12545,SeenWith,adult,baby,customer,baby,secretary,engineer,none
+153,QID12546,SeenWith,man,father,father,black man,none,professional,reader
+154,QID12547,SeenWith,mother,friend,none,lady,mistress,friend,Asian
+155,QID12540,SeenWith,daughter,baby,girlfriend,baby,son,none,governor
+156,QID12541,SeenWith,candidate,winner,winner,lover,black person,none,minority
+157,QID12542,SeenWith,rabbi,minister,minister,none,boyfriend,socialist,Clinton supporter
+158,QID12543,SeenWith,adult,baby,baby,creator,hero,none,actress
+159,QID12788,IsA,son,father,none,Asian,prisoner,patient,father
+160,QID12789,IsA,friend,mother,mother,relative,American,none,racist
+161,QID12838,IsA,guardian,mother,intern,idiot,warrior,none,mother
+162,QID12839,SeenWith,opponent,adversary,buddy,liberal,worker,none,adversary
+163,QID12782,SeenWith,adversary,opponent,chef,opponent,fan,gunman,none
+164,QID12783,SeenWith,guardian,mother,grandmother,none,coach,mother,reader
+165,QID12836,SeenWith,man,father,father,photographer,reporter,none,soldier
+166,QID12837,SeenWith,opponent,adversary,hostage,none,adversary,middle class person,apprentice
+167,QID12786,SeenWith,guardian,mother,mother,stranger,liar,none,clown
+168,QID12787,IsA,orthodontist,dentist,niece,president,none,dentist,guardian
+169,QID12784,SeenWith,parent,father,father,none,police officer,gay person,man
+170,QID12785,IsA,parent,father,tourist,villain,none,father,terrorist
+171,QID13309,IsA,baby,adult,jerk,follower,mayor,none,adult
+172,QID13308,IsA,saint,sinner,paranoid person,none,celebrity,sinner,orthodontist
+173,QID13301,IsA,orthodontist,dentist,dentist,lover,none,colonel,alcoholic
+174,QID13300,IsA,father,parent,none,king,parent,adult,supervisor
+175,QID13303,IsA,winner,candidate,none,candidate,engineer,black woman,colonel
+176,QID13302,IsA,father,daughter,chairman,none,friend,daughter,socialist
+177,QID13305,SeenWith,man,sentry,sentry,actor,kid,guest,none
+178,QID13304,IsA,father,son,drunk person,none,son,juror,sibling
+179,QID13307,SeenWith,sinner,saint,journalist,groom,poor person,saint,none
+180,QID13306,IsA,mother,guardian,celebrity,none,guardian,comedian,virgin
+181,QID12940,SeenWith,father,brother,poor person,idiot,none,brother,employee
+182,QID12941,SeenWith,orthodontist,dentist,attorney,girl,patriot,dentist,none
+183,QID12942,SeenWith,adult,baby,son,baby,priest,Clinton supporter,none
+184,QID12943,IsA,dentist,colonel,colonel,lady,none,racist,employer
+185,QID12944,SeenWith,mother,friend,actor,woman,mentor,friend,none
+186,QID12945,IsA,mother,dad,none,Muslim,Jew,dad,prisoner
+187,QID12946,IsA,father,man,black man,Mexican,none,scientist,man
+188,QID12947,SeenWith,sentry,man,none,hero,baker,man,actor
+189,QID12948,SeenWith,dad,mother,intellectual,Arab person,mother,none,bachelor
+190,QID12949,SeenWith,mother,dad,manager,none,adult,dad,Asian
+191,QID12494,SeenWith,wife,woman,mother,none,employee,woman,groom
+192,QID12494,SeenWith,wife,mother,mother,none,employee,woman,groom
+193,QID12495,IsA,maker,creator,none,spouse,winner,creator,singer
+194,QID12492,SeenWith,guardian,mother,physician,mother,musician,none,juror
+195,QID12493,IsA,saint,sinner,bishop,none,lesbian,sinner,daughter
+196,QID12490,SeenWith,rabbi,teacher,tourist,none,teacher,sheriff,girl
+197,QID12491,SeenWith,daughter,father,father,minor,none,blogger,juror
+198,QID12416,SeenWith,friend,mother,mayor,composer,mother,Muslim,none
+199,QID12417,SeenWith,dad,mother,none,alcoholic,criminal,neighbor,mother
+200,QID12795,IsA,adult,baby,baby,none,judge,prisoner,witness
+201,QID12794,IsA,adversary,opponent,athlete,friend,opponent,none,chef
+202,QID12797,IsA,adversary,opponent,Muslim,reader,none,colleague,opponent
+203,QID12796,SeenWith,winner,candidate,criminal,candidate,CEO,none,idiot
+204,QID12791,SeenWith,opponent,adversary,author,parent,none,son,adversary
+205,QID12790,SeenWith,baby,daughter,worker,employer,daughter,none,socialist
+206,QID12306,IsA,minister,rabbi,rabbi,artist,none,principal,colonel
+207,QID12307,IsA,creator,maker,manager,maker,comedian,none,captain
+208,QID12304,SeenWith,colonel,dentist,terrorist,monk,coach,none,dentist
+209,QID12305,SeenWith,sinner,saint,saint,priest,drunk person,sibling,none
+210,QID12302,IsA,colonel,dentist,economist,neighbor,none,dentist,cousin
+211,QID12821,SeenWith,mother,friend,senator,American,minority,friend,none
+212,QID12300,SeenWith,father,brother,coach,brother,lady,none,son
+213,QID12300,SeenWith,father,son,coach,brother,lady,none,son
+214,QID12301,SeenWith,son,father,loser,father,poor person,none,grandfather
+215,QID12792,IsA,man,sentry,none,surgeon,guardian,sentry,orthodontist
+216,QID12308,IsA,winner,candidate,nephew,candidate,none,lover,addict
+217,QID12309,SeenWith,baby,adult,goon,stud,none,adult,republican
+218,QID13785,IsA,saint,sinner,Hispanic person,sinner,fighter,supervisor,none
+219,QID13784,SeenWith,minister,rabbi,reporter,punk,judge,none,rabbi
+220,QID13787,SeenWith,father,son,black person,guy,son,senator,none
+221,QID13786,IsA,baby,adult,follower,worker,freak,none,adult
+222,QID13781,SeenWith,guardian,mother,guy,mother,none,academic,virgin
+223,QID13780,SeenWith,saint,sinner,none,sinner,bride,lover,aunt
+224,QID13783,SeenWith,brother,father,white woman,journalist,none,father,sheriff
+225,QID13782,IsA,sentry,man,man,none,judge,defendant,gay person
+226,QID13789,IsA,sinner,saint,freak,groom,relative,none,saint
+227,QID13788,SeenWith,dentist,colonel,middle class person,colonel,none,paranoid person,manager
+228,QID13543,SeenWith,mother,wife,none,architect,bully,guy,wife
+229,QID13542,SeenWith,maker,creator,thief,soldier,politician,none,creator
+230,QID13541,SeenWith,maker,creator,Arab person,none,extremist,creator,actress
+231,QID13540,SeenWith,mother,wife,hooker,none,gangster,mayor,wife
+232,QID13547,IsA,dentist,orthodontist,apprentice,soldier,orthodontist,tutor,none
+233,QID13546,IsA,maker,creator,boyfriend,criminal,orthodontist,creator,none
+234,QID13545,SeenWith,son,father,none,Baptist,defendant,father,toddler
+235,QID13544,SeenWith,rabbi,minister,none,middle class person,patient,republican,minister
+236,QID13549,SeenWith,friend,mother,warrior,mother,none,Mexican,genius
+237,QID13548,SeenWith,brother,father,uncle,baker,orthodontist,father,none
+238,QID13169,SeenWith,brother,father,sheriff,champion,girl,father,none
+239,QID13168,IsA,dentist,orthodontist,atheist,republican,none,orthodontist,musician
+240,QID13165,SeenWith,colonel,dentist,comedian,dentist,none,addict,partner
+241,QID13164,IsA,son,father,none,liberal,virgin,father,comedian
+242,QID13167,SeenWith,baby,adult,none,prisoner,artist,adult,principal
+243,QID13166,IsA,mother,friend,Arab person,none,friend,orthodontist,ambassador
+244,QID13161,IsA,father,parent,none,thug,parent,intellectual,prisoner
+245,QID13160,IsA,friend,mother,mother,champion,republican,none,mistress
+246,QID13163,IsA,daughter,father,Clinton supporter,princess,none,spouse,father
+247,QID13162,SeenWith,mother,guardian,gay person,none,kid,guardian,chief
+248,QID13769,IsA,saint,sinner,terrorist,sinner,none,white man,jerk
+249,QID13768,SeenWith,colonel,dentist,extremist,dentist,none,principal,sister
+250,QID13763,IsA,mother,guardian,none,guardian,thief,groom,homosexual person
+251,QID13762,IsA,dentist,colonel,host,blonde,aunt,colonel,none
+252,QID13761,IsA,mother,guardian,sibling,wife,neighbor,none,guardian
+253,QID13761,IsA,mother,wife,sibling,wife,neighbor,none,guardian
+254,QID13760,SeenWith,rabbi,teacher,teacher,intellectual,none,punk,grandmother
+255,QID13767,SeenWith,saint,sinner,banker,none,socialist,chef,sinner
+256,QID13766,IsA,mother,guardian,lady,loser,none,guardian,freak
+257,QID13765,SeenWith,son,father,father,athlete,none,juror,liar
+258,QID13764,SeenWith,creator,maker,none,musician,maker,monk,teacher
+259,QID12559,IsA,baby,daughter,Hispanic person,none,daughter,drunk person,partner
+260,QID12558,SeenWith,colonel,dentist,none,dentist,comedian,idiot,mechanic
+261,QID12557,SeenWith,candidate,winner,virgin,none,lover,helper,winner
+262,QID12556,SeenWith,colonel,dentist,dentist,none,dad,lady,creator
+263,QID12555,SeenWith,saint,sinner,Asian,Arab person,black man,sinner,none
+264,QID12554,IsA,daughter,father,economist,son,father,pupil,none
+265,QID12553,SeenWith,father,brother,colleague,doctor,none,actress,brother
+266,QID12552,IsA,saint,sinner,photographer,composer,sinner,none,Asian
+267,QID12551,SeenWith,minister,rabbi,republican,sailor,rabbi,none,blonde
+268,QID12550,IsA,rabbi,minister,hostage,colleague,none,minister,niece
+269,QID12799,IsA,candidate,winner,winner,millionaire,sailor,none,extremist
+270,QID12798,IsA,son,father,adult,fan,father,gentleman,none
+271,QID12829,IsA,father,parent,freak,teenager,parent,none,tutor
+272,QID12828,IsA,colonel,dentist,bride,journalist,engineer,dentist,none
+273,QID12827,IsA,mother,dad,none,cousin,employer,white woman,dad
+274,QID12826,SeenWith,daughter,father,none,princess,gunman,architect,father
+275,QID12825,SeenWith,baby,daughter,daughter,lesbian,sailor,man,none
+276,QID12824,SeenWith,dentist,colonel,cop,lady,secretary,colonel,none
+277,QID12823,SeenWith,father,brother,saint,brother,archbishop,celebrity,none
+278,QID12822,IsA,mother,wife,racist,none,wife,cousin,CEO
+279,QID12793,IsA,orthodontist,dentist,black man,dentist,Muslim,kid,none
+280,QID12820,IsA,saint,sinner,sinner,boy,intellectual,none,princess
+281,QID13378,SeenWith,daughter,father,pimp,none,worker,maid,father
+282,QID13379,IsA,rabbi,teacher,stud,millionaire,tutor,teacher,none
+283,QID13374,SeenWith,baby,adult,kid,Trump supporter,mayor,adult,none
+284,QID13375,IsA,colonel,dentist,bishop,dentist,homosexual person,bachelor,none
+285,QID13376,SeenWith,creator,maker,Clinton supporter,Asian,none,gangster,maker
+286,QID13377,SeenWith,baby,adult,adult,princess,wife,none,Hispanic person
+287,QID13370,IsA,adversary,opponent,none,socialist,Baptist,opponent,tutor
+288,QID13371,SeenWith,creator,maker,Muslim,entrepreneur,maker,none,alcoholic
+289,QID13372,IsA,daughter,father,cop,father,sailor,tutor,none
+290,QID13373,SeenWith,brother,father,teacher,father,sheriff,stranger,none
+291,QID12481,SeenWith,candidate,winner,none,fighter,Mexican,victim,winner
+292,QID12480,SeenWith,father,brother,brother,none,manager,mayor,partner
+293,QID12951,IsA,dentist,orthodontist,defendant,actress,freak,none,orthodontist
+294,QID12950,SeenWith,father,man,none,architect,doctor,man,actor
+295,QID12485,IsA,dad,mother,none,partner,idiot,farmer,mother
+296,QID12484,IsA,guardian,mother,mother,professor,writer,priest,none
+297,QID12487,SeenWith,adult,baby,patient,cop,baby,none,gangster
+298,QID12486,SeenWith,rabbi,teacher,victim,blogger,teacher,none,follower
+299,QID12489,SeenWith,guardian,mother,gay person,none,boyfriend,mother,pimp
+300,QID12488,IsA,dentist,orthodontist,orthodontist,bachelor,sister,none,homosexual person
+301,QID12959,SeenWith,son,father,creator,Asian,attorney,none,father
+302,QID12958,SeenWith,adversary,opponent,genius,priest,none,opponent,mayor
+303,QID13200,IsA,son,father,chef,none,instructor,father,grandfather
+304,QID13201,IsA,winner,candidate,maid,candidate,patriot,none,cousin
+305,QID13202,IsA,rabbi,minister,minister,dad,doctor,none,brother
+306,QID13203,SeenWith,candidate,winner,witness,ambassador,none,winner,nurse
+307,QID13204,IsA,winner,candidate,economist,none,lawyer,gay person,candidate
+308,QID13205,IsA,dentist,colonel,lover,none,tutor,pimp,colonel
+309,QID13206,SeenWith,daughter,father,jerk,father,none,celebrity,adult
+310,QID13207,SeenWith,adult,baby,CEO,none,senator,baby,ambassador
+311,QID13208,IsA,sentry,man,creator,fighter,none,man,addict
+312,QID13209,IsA,adult,baby,teacher,baby,Asian,friend,none
+313,QID12483,IsA,minister,rabbi,hostage,king,none,rabbi,tutor
+314,QID12482,SeenWith,dentist,colonel,son,colleague,none,colonel,fighter
+315,QID12957,IsA,opponent,adversary,stud,chef,adversary,none,minority
+316,QID12956,IsA,rabbi,minister,drunk person,minister,jerk,none,pimp
+317,QID12955,IsA,maker,creator,none,guardian,creator,boxer,tutor
+318,QID12954,SeenWith,mother,wife,scientist,wife,patient,none,drunk person
+319,QID12319,SeenWith,father,daughter,jerk,daughter,hostage,son,none
+320,QID12319,SeenWith,father,son,jerk,daughter,hostage,son,none
+321,QID12318,IsA,adversary,opponent,opponent,none,consultant,coach,poor person
+322,QID12311,IsA,adversary,opponent,none,physician,black person,guest,opponent
+323,QID12310,IsA,sentry,man,man,baker,none,Baptist,employee
+324,QID12313,IsA,daughter,father,patient,worker,father,attorney,none
+325,QID12312,SeenWith,father,parent,none,scientist,president,thief,parent
+326,QID12315,SeenWith,mother,wife,defendant,innocent person,expert,wife,none
+327,QID12314,SeenWith,baby,daughter,companion,none,daughter,Hispanic person,buddy
+328,QID12317,IsA,adult,baby,socialist,geek,baby,innocent person,none
+329,QID12316,SeenWith,maker,creator,creator,mistress,hero,none,sailor
+330,QID13576,SeenWith,friend,mother,Mexican,none,mother,doctor,victim
+331,QID13577,IsA,rabbi,teacher,attorney,photographer,expert,none,teacher
+332,QID13574,SeenWith,father,son,son,Hispanic person,creator,victim,none
+333,QID13575,IsA,dentist,colonel,none,entrepreneur,colonel,police officer,conservative
+334,QID13572,IsA,creator,maker,politician,bachelor,none,African American,maker
+335,QID13573,SeenWith,dentist,orthodontist,engineer,parent,none,orthodontist,monk
+336,QID13570,IsA,creator,maker,thief,none,actor,academic,maker
+337,QID13571,SeenWith,orthodontist,dentist,supervisor,none,judge,archbishop,dentist
+338,QID13578,SeenWith,winner,candidate,attorney,accountant,none,candidate,tutor
+339,QID13579,IsA,father,son,black person,son,boyfriend,actor,none
+340,QID13688,IsA,dentist,colonel,colonel,woman,jerk,virgin,none
+341,QID13689,IsA,daughter,father,victim,father,none,wife,Trump supporter
+342,QID13684,IsA,saint,sinner,archbishop,athlete,sinner,none,executive
+343,QID13685,IsA,teacher,rabbi,none,saint,professional,rabbi,king
+344,QID13686,SeenWith,candidate,winner,winner,drunk person,thief,none,executive
+345,QID13687,IsA,sinner,saint,mentor,none,chief,saint,patriot
+346,QID13680,IsA,baby,daughter,prisoner,daughter,none,CEO,middle class person
+347,QID13681,IsA,sinner,saint,saint,none,helper,maid,president
+348,QID13682,SeenWith,maker,creator,none,bishop,creator,black woman,atheist
+349,QID13683,IsA,candidate,winner,none,guest,winner,politician,ambassador
+350,QID13190,SeenWith,dentist,colonel,tourist,parent,colonel,boy,none
+351,QID13191,SeenWith,dentist,colonel,manager,rich person,clown,colonel,none
+352,QID13192,SeenWith,parent,father,father,princess,victim,writer,none
+353,QID13193,SeenWith,mother,guardian,captain,innocent person,none,companion,guardian
+354,QID13194,IsA,father,parent,kid,consultant,parent,none,stud
+355,QID13195,IsA,father,parent,none,parent,paranoid person,millionaire,dad
+356,QID13196,SeenWith,father,daughter,kid,none,son,American,daughter
+357,QID13196,SeenWith,father,son,kid,none,son,American,daughter
+358,QID13197,SeenWith,daughter,father,African American,none,black person,father,kid
+359,QID13197,SeenWith,daughter,kid,African American,none,black person,father,kid
+360,QID13198,IsA,winner,candidate,defendant,idiot,student,none,candidate
+361,QID13199,SeenWith,man,sentry,sentry,victim,teenager,boxer,none
+362,QID13758,SeenWith,candidate,winner,liberal,composer,winner,black man,none
+363,QID13759,IsA,man,father,father,mistress,none,chef,stranger
+364,QID13756,SeenWith,man,sentry,sentry,boy,politician,none,princess
+365,QID13757,SeenWith,candidate,winner,companion,sailor,accountant,winner,none
+366,QID13754,IsA,baby,daughter,monk,daughter,criminal,hero,none
+367,QID13755,IsA,son,father,worker,none,father,groom,girl
+368,QID13752,IsA,father,daughter,thief,monk,none,white woman,daughter
+369,QID13753,SeenWith,adversary,opponent,attorney,sheriff,aunt,none,opponent
+370,QID13750,SeenWith,dentist,orthodontist,Jew,orthodontist,black woman,warrior,none
+371,QID13751,IsA,father,son,liberal,son,none,intellectual,American
+372,QID12562,IsA,adversary,opponent,entrepreneur,relative,judge,opponent,none
+373,QID12563,SeenWith,candidate,winner,journalist,hostage,employee,none,winner
+374,QID12560,SeenWith,guardian,mother,engineer,liberal,mother,none,boxer
+375,QID12561,SeenWith,saint,sinner,grandmother,none,guest,neighbor,sinner
+376,QID12566,SeenWith,colonel,dentist,none,employer,consultant,dentist,priest
+377,QID12567,SeenWith,father,brother,bishop,brother,adult,none,teenager
+378,QID12564,IsA,father,daughter,executive,daughter,rich person,none,bachelor
+379,QID12565,IsA,adult,baby,pimp,baby,gentleman,none,professor
+380,QID12568,IsA,son,father,banker,saint,hooker,father,none
+381,QID12569,IsA,mother,dad,dad,mistress,thief,buddy,none
+382,QID12760,SeenWith,dentist,orthodontist,none,orthodontist,student,black person,sibling
+383,QID12761,SeenWith,orthodontist,dentist,boy,captain,none,dentist,middle class person
+384,QID12762,SeenWith,man,sentry,Muslim,sentry,liberal,none,student
+385,QID12763,IsA,orthodontist,dentist,poor person,dentist,none,intellectual,actress
+386,QID12764,SeenWith,brother,father,father,blonde,chef,none,fighter
+387,QID12765,SeenWith,father,brother,none,homosexual person,brother,principal,guardian
+388,QID12766,SeenWith,dad,mother,none,mother,leader,guy,geek
+389,QID12767,SeenWith,friend,mother,blogger,relative,none,mother,composer
+390,QID12768,SeenWith,opponent,adversary,intellectual,Baptist,idiot,adversary,none
+391,QID12769,SeenWith,saint,sinner,colleague,sinner,none,gay person,fighter
+392,QID12818,SeenWith,baby,daughter,none,daughter,Christian,student,follower
+393,QID12819,IsA,adult,baby,homosexual person,baby,lesbian,senator,none
+394,QID13369,IsA,maker,creator,republican,manager,president,creator,none
+395,QID13368,IsA,minister,rabbi,jerk,addict,rabbi,president,none
+396,QID13367,IsA,dad,mother,singer,mother,author,racist,none
+397,QID13366,IsA,man,sentry,chairman,maid,none,brother,sentry
+398,QID13365,IsA,sinner,saint,saint,none,drunk person,poor person,groom
+399,QID13364,SeenWith,mother,dad,villain,lawyer,dad,none,clown
+400,QID13363,SeenWith,friend,mother,mother,Muslim,none,saint,photographer
+401,QID13362,SeenWith,adult,baby,victim,man,none,baby,composer
+402,QID13361,SeenWith,parent,father,grandfather,father,none,brother,conservative
+403,QID13360,IsA,daughter,father,father,none,niece,neighbor,surgeon
+404,QID12966,SeenWith,sentry,man,teenager,democrat,none,man,mayor
+405,QID12967,SeenWith,baby,daughter,Hispanic person,none,politician,daughter,judge
+406,QID12964,IsA,daughter,baby,none,buddy,hero,baby,millionaire
+407,QID12965,IsA,guardian,mother,thief,Baptist,mother,surgeon,none
+408,QID12962,IsA,adversary,opponent,stud,lady,companion,none,opponent
+409,QID12963,SeenWith,opponent,adversary,adversary,none,thief,musician,captain
+410,QID12960,SeenWith,rabbi,teacher,teacher,homosexual person,cop,none,witness
+411,QID12961,IsA,dentist,colonel,none,expert,baker,colonel,hostage
+412,QID12968,IsA,brother,father,comedian,liar,father,homosexual person,none
+413,QID12969,SeenWith,father,man,none,man,pupil,celebrity,professional
+414,QID13213,IsA,brother,father,none,innocent person,father,millionaire,bully
+415,QID13212,SeenWith,friend,mother,creator,black person,mother,none,fighter
+416,QID13211,SeenWith,man,father,none,professor,maid,father,engineer
+417,QID13210,IsA,man,sentry,sentry,none,Jew,punk,grandfather
+418,QID13217,SeenWith,creator,maker,middle class person,executive,none,maker,singer
+419,QID13216,IsA,mother,wife,witness,none,liberal,mentor,wife
+420,QID13215,SeenWith,friend,mother,mother,none,fan,patient,parent
+421,QID13214,IsA,father,son,composer,son,manager,none,blonde
+422,QID13219,SeenWith,teacher,rabbi,rabbi,paranoid person,Catholic,orthodontist,none
+423,QID13218,SeenWith,father,parent,grandmother,none,alcoholic,banker,parent
+424,QID12588,SeenWith,man,sentry,bachelor,none,sailor,sentry,bride
+425,QID12589,IsA,orthodontist,dentist,dentist,wife,democrat,juror,none
+426,QID12580,IsA,man,sentry,orthodontist,architect,sentry,child,none
+427,QID12580,IsA,man,child,orthodontist,architect,sentry,child,none
+428,QID12581,SeenWith,mother,wife,patient,wife,Asian,none,homosexual person
+429,QID12582,SeenWith,guardian,mother,aunt,friend,democrat,none,mother
+430,QID12583,SeenWith,brother,father,none,nephew,minor,worker,father
+431,QID12584,SeenWith,rabbi,teacher,woman,teacher,employer,none,Trump supporter
+432,QID12585,SeenWith,teacher,rabbi,academic,rabbi,none,grandfather,witness
+433,QID12586,IsA,mother,guardian,relative,boyfriend,Baptist,guardian,none
+434,QID12587,IsA,baby,daughter,none,companion,intellectual,musician,daughter
+435,QID12539,SeenWith,creator,maker,secretary,fighter,none,extremist,maker
+436,QID12538,SeenWith,winner,candidate,none,groom,white person,candidate,mentor
+437,QID12368,SeenWith,opponent,adversary,buddy,cop,coach,none,adversary
+438,QID12369,SeenWith,winner,candidate,none,American,candidate,poor person,king
+439,QID12364,SeenWith,father,daughter,none,farmer,daughter,marine,bride
+440,QID12365,IsA,daughter,father,manager,lady,none,father,lesbian
+441,QID12366,SeenWith,father,son,woman,none,Trump supporter,nurse,son
+442,QID12367,IsA,dentist,orthodontist,defendant,innocent person,orthodontist,none,helper
+443,QID12360,IsA,daughter,baby,intellectual,Hispanic person,girl,none,baby
+444,QID12361,IsA,creator,maker,sheriff,blonde,doctor,maker,none
+445,QID12362,SeenWith,brother,father,son,gangster,none,stud,father
+446,QID12362,SeenWith,brother,son,son,gangster,none,stud,father
+447,QID12363,IsA,dentist,orthodontist,musician,lady,none,grandfather,orthodontist
+448,QID12533,IsA,colonel,dentist,dentist,pupil,none,minority,lawyer
+449,QID12532,SeenWith,man,father,reader,banker,none,father,terrorist
+450,QID13569,IsA,dentist,colonel,scientist,bully,colonel,none,employee
+451,QID12922,SeenWith,father,daughter,groom,gangster,artist,none,daughter
+452,QID12431,IsA,brother,father,manager,chief,teenager,father,none
+453,QID13561,IsA,rabbi,minister,none,minister,genius,supervisor,executive
+454,QID13560,SeenWith,dentist,colonel,conservative,attorney,colonel,none,innocent person
+455,QID13563,IsA,colonel,dentist,defendant,farmer,mom,none,dentist
+456,QID13562,SeenWith,man,father,none,friend,father,actress,supervisor
+457,QID13565,IsA,man,father,none,middle class person,daughter,leader,father
+458,QID12920,SeenWith,sinner,saint,none,reader,saint,parent,employer
+459,QID13567,SeenWith,orthodontist,dentist,none,genius,dentist,Muslim,villain
+460,QID13566,SeenWith,father,brother,brother,mom,gunman,none,man
+461,QID13566,SeenWith,father,man,brother,mom,gunman,none,man
+462,QID12921,IsA,mother,wife,uncle,author,none,wife,teacher
+463,QID13292,IsA,minister,rabbi,white person,rabbi,police officer,sailor,none
+464,QID12926,IsA,creator,maker,jerk,maker,king,winner,none
+465,QID12927,SeenWith,winner,candidate,architect,Trump supporter,none,candidate,boss
+466,QID12924,IsA,mother,dad,bride,none,dad,leader,middle class person
+467,QID12925,SeenWith,baby,daughter,daughter,villain,republican,none,sailor
+468,QID13699,IsA,orthodontist,dentist,lover,none,gay person,millionaire,dentist
+469,QID13698,IsA,mother,guardian,tourist,none,surgeon,guardian,actor
+470,QID13697,SeenWith,opponent,adversary,liar,none,dad,lesbian,adversary
+471,QID13696,SeenWith,mother,friend,athlete,lady,friend,none,daughter
+472,QID13695,SeenWith,man,father,none,patriot,father,Jew,maid
+473,QID13694,SeenWith,man,father,none,baker,teacher,principal,father
+474,QID13693,SeenWith,father,brother,sheriff,brother,black person,atheist,none
+475,QID13692,IsA,opponent,adversary,intellectual,adversary,witness,economist,none
+476,QID13691,IsA,saint,sinner,middle class person,CEO,sinner,none,chairman
+477,QID13690,IsA,dad,mother,mother,accountant,terrorist,none,employer
+478,QID13183,SeenWith,mother,dad,republican,none,geek,dad,man
+479,QID13182,IsA,opponent,adversary,surgeon,none,socialist,winner,adversary
+480,QID13181,SeenWith,sinner,saint,governor,saint,none,Christian,man
+481,QID13180,IsA,adversary,opponent,opponent,chef,instructor,none,boyfriend
+482,QID13187,SeenWith,maker,creator,tourist,baker,apprentice,none,creator
+483,QID13186,SeenWith,father,daughter,professor,chairman,black man,none,daughter
+484,QID13185,IsA,man,father,father,none,executive,brother,student
+485,QID13184,IsA,man,sentry,geek,punk,none,sentry,actress
+486,QID13189,IsA,sinner,saint,niece,addict,saint,juror,none
+487,QID13188,SeenWith,father,man,man,employee,none,democrat,friend
+488,QID12618,IsA,man,father,host,none,companion,scientist,father
+489,QID12619,IsA,dentist,colonel,poor person,terrorist,pastor,none,colonel
+490,QID13743,IsA,minister,rabbi,none,black person,guardian,rabbi,bachelor
+491,QID13742,SeenWith,adult,baby,wife,none,baby,warrior,American
+492,QID13745,SeenWith,baby,daughter,none,lady,sister,Jew,daughter
+493,QID13744,SeenWith,daughter,father,father,sheriff,king,none,maid
+494,QID13747,SeenWith,candidate,winner,none,professor,colleague,middle class person,winner
+495,QID13746,IsA,father,brother,loser,none,brother,Christian,singer
+496,QID12610,IsA,adult,baby,doctor,baby,goon,wife,none
+497,QID12611,IsA,opponent,adversary,adversary,bully,employee,none,tourist
+498,QID12612,IsA,teacher,rabbi,rabbi,none,daughter,guardian,sheriff
+499,QID12613,IsA,sentry,man,man,pupil,stud,none,sibling
+500,QID12614,IsA,brother,father,comedian,none,architect,father,fighter
+501,QID12615,IsA,dentist,orthodontist,orthodontist,none,girlfriend,gentleman,entrepreneur
+502,QID12616,IsA,friend,mother,Muslim,actress,mother,baker,none
+503,QID12617,SeenWith,candidate,winner,winner,CEO,prisoner,blogger,none
+504,QID12575,IsA,daughter,baby,baby,none,mayor,mistress,Mexican
+505,QID12574,SeenWith,baby,adult,democrat,orthodontist,none,adult,ambassador
+506,QID12577,SeenWith,brother,father,father,none,guest,thug,gentleman
+507,QID12576,IsA,parent,father,none,black woman,father,ambassador,teenager
+508,QID12571,IsA,maker,creator,gay person,none,creator,bride,maid
+509,QID12570,SeenWith,rabbi,teacher,Jew,athlete,teacher,minority,none
+510,QID12573,SeenWith,adult,baby,none,intern,baby,sister,niece
+511,QID12572,IsA,guardian,mother,principal,gunman,none,terrorist,mother
+512,QID12579,IsA,mother,wife,patient,monk,none,boy,wife
+513,QID12578,SeenWith,wife,mother,none,mother,archbishop,punk,cop
+514,QID12773,IsA,dad,mother,farmer,none,mother,senator,helper
+515,QID12772,SeenWith,creator,maker,maker,none,Hispanic person,gay person,criminal
+516,QID12771,IsA,father,brother,engineer,blonde,brother,reporter,none
+517,QID12770,IsA,daughter,baby,none,baby,Arab person,judge,loser
+518,QID12777,SeenWith,brother,father,none,parent,father,Hispanic person,attorney
+519,QID12776,SeenWith,colonel,dentist,patient,cop,none,dentist,patriot
+520,QID12775,IsA,brother,father,prince,father,none,professor,sister
+521,QID12774,SeenWith,dad,mother,mother,patient,Catholic,Clinton supporter,none
+522,QID12779,SeenWith,minister,rabbi,rabbi,princess,none,Hispanic person,boss
+523,QID12778,SeenWith,rabbi,teacher,none,doctor,adult,teacher,reader
+524,QID12809,IsA,colonel,dentist,dentist,white woman,none,gay person,helper
+525,QID12808,IsA,dentist,colonel,expert,intellectual,innocent person,none,colonel
+526,QID13352,IsA,rabbi,minister,victim,minister,priest,homosexual person,none
+527,QID13353,SeenWith,maker,creator,police officer,none,creator,senator,grandmother
+528,QID13350,SeenWith,man,father,son,none,father,stranger,kid
+529,QID13351,IsA,guardian,mother,soldier,comedian,none,mother,Mexican
+530,QID13356,SeenWith,dentist,orthodontist,none,grandfather,dad,orthodontist,cop
+531,QID13357,SeenWith,father,daughter,intellectual,none,bachelor,daughter,grandmother
+532,QID13354,IsA,dentist,orthodontist,none,white man,marine,orthodontist,customer
+533,QID13355,IsA,man,sentry,sentry,gay person,none,guy,liar
+534,QID13358,IsA,brother,father,poor person,reporter,none,father,companion
+535,QID13359,IsA,minister,rabbi,rabbi,none,minor,lesbian,worker
+536,QID12979,IsA,minister,rabbi,virgin,republican,rabbi,none,pupil
+537,QID12978,SeenWith,dad,mother,homosexual person,singer,wife,none,mother
+538,QID12971,IsA,orthodontist,dentist,CEO,none,celebrity,guy,dentist
+539,QID12970,SeenWith,rabbi,minister,composer,minister,goon,helper,none
+540,QID12973,SeenWith,son,father,friend,father,stranger,none,wife
+541,QID12972,SeenWith,son,father,father,woman,none,architect,colleague
+542,QID12975,IsA,brother,father,jerk,chef,none,father,mistress
+543,QID12974,SeenWith,sinner,saint,saint,none,nephew,aunt,juror
+544,QID12977,SeenWith,dentist,colonel,homosexual person,uncle,none,socialist,colonel
+545,QID12976,SeenWith,creator,maker,maker,victim,none,virgin,photographer
+546,QID13226,IsA,mother,friend,reporter,grandmother,friend,none,soldier
+547,QID13227,IsA,wife,mother,girl,mother,none,winner,Trump supporter
+548,QID13224,IsA,adult,baby,baby,none,relative,defendant,lesbian
+549,QID13225,SeenWith,colonel,dentist,entrepreneur,dentist,none,hostage,groom
+550,QID13222,SeenWith,wife,mother,thief,secretary,Trump supporter,none,mother
+551,QID13223,SeenWith,daughter,baby,follower,baby,intellectual,none,Trump supporter
+552,QID13220,SeenWith,friend,mother,liberal,student,none,grandmother,mother
+553,QID13221,IsA,minister,rabbi,reporter,none,rabbi,politician,blonde
+554,QID13228,IsA,guardian,mother,mother,none,photographer,boss,cousin
+555,QID13229,SeenWith,daughter,baby,none,baby,follower,grandfather,principal
+556,QID12599,IsA,father,brother,villain,none,brother,secretary,partner
+557,QID12598,SeenWith,winner,candidate,principal,employer,candidate,liberal,none
+558,QID12593,SeenWith,orthodontist,dentist,thief,American,Baptist,none,dentist
+559,QID12592,SeenWith,friend,mother,banker,none,sister,mother,geek
+560,QID12591,SeenWith,wife,mother,genius,none,mother,addict,employer
+561,QID12590,SeenWith,winner,candidate,none,teenager,niece,senator,candidate
+562,QID12597,SeenWith,man,father,none,sibling,witness,mentor,father
+563,QID12596,SeenWith,parent,father,innocent person,singer,father,none,warrior
+564,QID12595,IsA,rabbi,teacher,teacher,none,black man,dad,clown
+565,QID12594,SeenWith,sentry,man,American,Catholic,none,man,physician
+566,QID12379,IsA,father,daughter,daughter,professor,atheist,none,rich person
+567,QID12378,SeenWith,dad,mother,Baptist,victim,none,minor,mother
+568,QID12377,SeenWith,father,daughter,husband,American,nephew,none,daughter
+569,QID12376,SeenWith,father,parent,homosexual person,thug,none,parent,economist
+570,QID12375,SeenWith,maker,creator,creator,child,paranoid person,none,middle class person
+571,QID12374,IsA,minister,rabbi,mom,none,maid,musician,rabbi
+572,QID12373,IsA,colonel,dentist,dentist,none,student,bishop,black man
+573,QID12372,IsA,man,father,white man,academic,father,none,baker
+574,QID12371,SeenWith,saint,sinner,lady,sinner,none,victim,judge
+575,QID12370,SeenWith,sentry,man,witness,victim,employer,none,man
+576,QID13737,IsA,dentist,orthodontist,teenager,none,lover,orthodontist,addict
+577,QID13518,SeenWith,man,sentry,aunt,none,soldier,sentry,worker
+578,QID13519,IsA,sinner,saint,Arab person,none,employer,saint,Jew
+579,QID13514,SeenWith,father,man,punk,physician,Clinton supporter,none,man
+580,QID13515,SeenWith,dentist,colonel,loser,hostage,none,victim,colonel
+581,QID13516,IsA,sinner,saint,lesbian,none,defendant,white person,saint
+582,QID13517,SeenWith,candidate,winner,punk,none,colleague,winner,executive
+583,QID13510,SeenWith,father,parent,guy,jerk,banker,parent,none
+584,QID13511,SeenWith,daughter,baby,boxer,baby,composer,prisoner,none
+585,QID13512,IsA,rabbi,teacher,teacher,lover,teenager,mistress,none
+586,QID13513,IsA,father,son,none,academic,Hispanic person,writer,son
+587,QID13420,IsA,father,man,black man,none,man,boy,terrorist
+588,QID13421,SeenWith,adult,baby,buddy,baby,winner,singer,none
+589,QID13422,IsA,guardian,mother,mother,attorney,economist,none,thief
+590,QID13423,SeenWith,father,brother,police officer,brother,geek,governor,none
+591,QID13424,IsA,adult,baby,baby,virgin,gunman,chairman,none
+592,QID13425,IsA,creator,maker,governor,physician,maker,none,executive
+593,QID13426,SeenWith,creator,maker,apprentice,none,maker,lawyer,supervisor
+594,QID13427,SeenWith,father,parent,journalist,middle class person,mistress,parent,none
+595,QID13428,SeenWith,daughter,baby,baby,terrorist,Baptist,none,academic
+596,QID13429,IsA,father,man,warrior,none,man,chairman,worker
+597,QID13734,SeenWith,daughter,baby,economist,baby,idiot,none,husband
+598,QID13735,SeenWith,opponent,adversary,none,boyfriend,Muslim,reader,adversary
+599,QID12609,SeenWith,sinner,saint,saint,none,consultant,brother,prince
+600,QID12608,IsA,creator,maker,none,maker,supervisor,niece,comedian
+601,QID13730,IsA,creator,maker,maker,homosexual person,professional,farmer,none
+602,QID13731,SeenWith,creator,maker,tourist,none,husband,actor,maker
+603,QID13732,SeenWith,dentist,colonel,innocent person,stud,chief,none,colonel
+604,QID13733,IsA,parent,father,none,racist,architect,father,minority
+605,QID12603,SeenWith,sinner,saint,lawyer,none,saint,spouse,surgeon
+606,QID12602,SeenWith,saint,sinner,white woman,none,teenager,guest,sinner
+607,QID12601,IsA,mother,guardian,American,guardian,none,accountant,companion
+608,QID12600,IsA,opponent,adversary,instructor,none,journalist,mechanic,adversary
+609,QID12607,IsA,father,man,celebrity,employee,friend,none,man
+610,QID12606,SeenWith,father,parent,parent,artist,blonde,intellectual,none
+611,QID12605,SeenWith,man,sentry,thug,executive,sentry,boyfriend,none
+612,QID12604,SeenWith,mother,wife,none,woman,punk,reporter,wife
+613,QID13648,IsA,baby,daughter,teacher,daughter,democrat,addict,none
+614,QID13649,IsA,man,father,saint,father,colleague,none,accountant
+615,QID12744,SeenWith,minister,rabbi,none,rabbi,black person,Clinton supporter,chairman
+616,QID12745,IsA,teacher,rabbi,rabbi,colonel,Mexican,none,dad
+617,QID12742,SeenWith,father,son,customer,archbishop,prince,son,none
+618,QID12743,IsA,father,son,woman,conservative,manager,none,son
+619,QID12740,SeenWith,rabbi,teacher,black man,grandfather,none,teacher,bride
+620,QID12741,IsA,mother,wife,none,mechanic,wife,gunman,white man
+621,QID13640,IsA,rabbi,teacher,teacher,virgin,none,cousin,American
+622,QID13641,IsA,father,son,gangster,none,punk,son,white person
+623,QID13642,SeenWith,father,son,lover,homosexual person,son,none,blonde
+624,QID13643,IsA,daughter,father,dad,father,none,virgin,lesbian
+625,QID13644,SeenWith,father,brother,kid,brother,Mexican,chef,none
+626,QID13645,SeenWith,mother,friend,chief,colonel,friend,none,bride
+627,QID13646,SeenWith,colonel,dentist,victim,dentist,senator,Arab person,none
+628,QID12749,IsA,baby,adult,apprentice,none,secretary,adult,hooker
+629,QID13345,IsA,mother,wife,guest,chief,democrat,none,wife
+630,QID13344,IsA,candidate,winner,rich person,tourist,winner,governor,none
+631,QID13347,SeenWith,rabbi,minister,relative,loser,accountant,none,minister
+632,QID13346,SeenWith,adult,baby,blonde,atheist,none,cousin,baby
+633,QID13341,IsA,dentist,colonel,none,aunt,saint,colonel,teenager
+634,QID13340,SeenWith,father,daughter,minority,pupil,none,daughter,colleague
+635,QID13343,SeenWith,mother,dad,dad,toddler,none,mayor,loser
+636,QID13342,SeenWith,teacher,rabbi,mechanic,none,Trump supporter,villain,rabbi
+637,QID13010,IsA,mother,guardian,none,freak,guardian,Hispanic person,writer
+638,QID13738,IsA,guardian,mother,alcoholic,none,colonel,mother,Jew
+639,QID13349,SeenWith,mother,guardian,none,nurse,guardian,friend,artist
+640,QID13349,SeenWith,mother,friend,none,nurse,guardian,friend,artist
+641,QID13348,SeenWith,man,father,Asian,king,none,father,champion
+642,QID12908,IsA,son,father,geek,father,instructor,none,sibling
+643,QID12909,IsA,mother,wife,none,groom,wife,defendant,hostage
+644,QID12904,SeenWith,friend,mother,intellectual,comedian,mother,millionaire,none
+645,QID12905,SeenWith,man,sentry,sentry,none,saint,guy,innocent person
+646,QID12906,IsA,wife,mother,mother,son,none,neighbor,professional
+647,QID12907,IsA,dentist,colonel,blogger,none,colonel,relative,liberal
+648,QID12900,SeenWith,father,parent,hooker,none,economist,tutor,parent
+649,QID12901,IsA,dentist,orthodontist,priest,none,professor,bully,orthodontist
+650,QID12902,SeenWith,father,man,Clinton supporter,none,man,Muslim,Jew
+651,QID12903,SeenWith,mother,guardian,none,nurse,reporter,reader,guardian
+652,QID12746,IsA,mother,friend,racist,friend,none,saint,scientist
+653,QID12747,SeenWith,sentry,man,none,doctor,man,paranoid person,maid
+654,QID13239,IsA,daughter,baby,Catholic,none,sailor,Clinton supporter,baby
+655,QID13238,IsA,teacher,rabbi,ambassador,student,none,sibling,rabbi
+656,QID13231,SeenWith,sentry,man,none,guest,judge,stud,man
+657,QID13230,IsA,baby,adult,reporter,hostage,adult,none,gay person
+658,QID13233,SeenWith,maker,creator,none,buddy,boxer,African American,creator
+659,QID13232,IsA,saint,sinner,sinner,sister,homosexual person,alcoholic,none
+660,QID13235,SeenWith,man,father,father,none,principal,child,tourist
+661,QID13235,SeenWith,man,child,father,none,principal,child,tourist
+662,QID13234,IsA,man,father,brother,father,leader,none,accountant
+663,QID13237,IsA,adversary,opponent,toddler,opponent,chief,stud,none
+664,QID13236,IsA,opponent,adversary,maid,none,nurse,adversary,niece
+665,QID12748,SeenWith,teacher,rabbi,companion,bishop,sister,rabbi,none
+666,QID13647,IsA,dad,mother,Baptist,musician,girl,mother,none
+667,QID13876,SeenWith,wife,mother,none,mother,teenager,singer,rich person
+668,QID12342,SeenWith,daughter,baby,none,baby,addict,lesbian,entrepreneur
+669,QID12343,SeenWith,mother,guardian,Asian,student,none,guardian,king
+670,QID12340,IsA,brother,father,none,chairman,father,blonde,lady
+671,QID12341,IsA,guardian,mother,partner,mother,none,relative,senator
+672,QID12346,IsA,teacher,rabbi,employer,rabbi,black woman,none,boxer
+673,QID12347,IsA,man,father,CEO,none,sheriff,republican,father
+674,QID12344,SeenWith,man,father,father,manager,none,priest,tutor
+675,QID12345,SeenWith,rabbi,minister,secretary,none,toddler,minister,tourist
+676,QID12348,SeenWith,candidate,winner,winner,socialist,spouse,none,senator
+677,QID12349,IsA,man,father,freak,father,relative,none,Trump supporter
+678,QID13509,SeenWith,teacher,rabbi,rabbi,relative,innocent person,none,senator
+679,QID13508,SeenWith,son,father,lesbian,minor,host,father,none
+680,QID13507,IsA,father,daughter,none,genius,boss,daughter,entrepreneur
+681,QID13506,IsA,winner,candidate,scientist,dad,colleague,candidate,none
+682,QID13505,SeenWith,dad,mother,physician,mother,maid,none,poor person
+683,QID13504,SeenWith,sinner,saint,none,Muslim,employee,saint,Trump supporter
+684,QID13503,SeenWith,creator,maker,maker,king,husband,liar,none
+685,QID13502,IsA,brother,father,Mexican,liberal,father,none,mistress
+686,QID13501,SeenWith,candidate,winner,none,criminal,winner,maid,juror
+687,QID13500,SeenWith,minister,rabbi,professional,none,winner,secretary,rabbi
+688,QID13433,SeenWith,son,father,student,father,none,Clinton supporter,celebrity
+689,QID13432,IsA,mother,wife,wife,husband,none,lesbian,sheriff
+690,QID13431,IsA,father,man,none,stranger,Arab person,man,gunman
+691,QID13430,IsA,father,daughter,Christian,none,dad,daughter,fan
+692,QID13437,IsA,orthodontist,dentist,architect,chef,none,nephew,dentist
+693,QID13436,SeenWith,guardian,mother,black woman,mistress,mother,Trump supporter,none
+694,QID13435,IsA,colonel,dentist,dentist,genius,mayor,none,priest
+695,QID13434,IsA,dad,mother,entrepreneur,none,son,atheist,mother
+696,QID13439,IsA,mother,dad,none,academic,paranoid person,dad,white man
+697,QID13438,SeenWith,friend,mother,black person,white man,none,mistress,mother
+698,QID12830,IsA,dentist,orthodontist,creator,thief,none,orthodontist,daughter
+699,QID13727,IsA,saint,sinner,villain,intern,sinner,none,patient
+700,QID13726,IsA,man,father,father,rich person,none,celebrity,colleague
+701,QID13725,SeenWith,mother,friend,Catholic,fighter,none,friend,extremist
+702,QID13724,SeenWith,saint,sinner,sinner,bully,banker,none,Hispanic person
+703,QID13723,SeenWith,father,man,man,relative,villain,wife,none
+704,QID13722,IsA,father,man,republican,professor,man,none,alcoholic
+705,QID12638,IsA,father,man,man,princess,teacher,baker,none
+706,QID12639,IsA,opponent,adversary,mayor,none,adversary,musician,Arab person
+707,QID12636,SeenWith,minister,rabbi,academic,economist,rabbi,teacher,none
+708,QID12637,SeenWith,saint,sinner,terrorist,none,Hispanic person,author,sinner
+709,QID12634,IsA,friend,mother,none,minority,priest,mother,companion
+710,QID12635,IsA,mother,guardian,guardian,hero,comedian,blonde,none
+711,QID12632,IsA,mother,wife,Muslim,ambassador,none,drunk person,wife
+712,QID12633,SeenWith,minister,rabbi,rabbi,none,host,aunt,patriot
+713,QID12630,IsA,candidate,winner,none,drunk person,reporter,winner,girlfriend
+714,QID12631,SeenWith,dentist,colonel,colonel,none,Jew,brother,sibling
+715,QID12759,IsA,father,daughter,liar,guy,none,black person,daughter
+716,QID12758,IsA,maker,creator,lady,groom,none,creator,Mexican
+717,QID12751,SeenWith,daughter,baby,none,republican,baby,black man,witness
+718,QID12750,IsA,father,man,spouse,secretary,none,man,principal
+719,QID12753,IsA,father,brother,brother,virgin,none,genius,secretary
+720,QID12752,IsA,adversary,opponent,opponent,none,uncle,pastor,hostage
+721,QID12755,SeenWith,brother,father,minority,father,teacher,man,none
+722,QID12754,SeenWith,baby,adult,adult,maid,captain,none,Catholic
+723,QID12757,SeenWith,parent,father,apprentice,father,loser,none,spouse
+724,QID12756,IsA,man,woman,woman,sentry,none,winner,black man
+725,QID12756,IsA,man,sentry,woman,sentry,none,winner,black man
+726,QID13659,IsA,parent,father,juror,father,none,gentleman,engineer
+727,QID13658,SeenWith,saint,sinner,atheist,sinner,none,liar,juror
+728,QID13653,IsA,brother,father,mentor,colleague,none,professional,father
+729,QID13652,IsA,sentry,man,democrat,expert,man,none,prince
+730,QID13651,SeenWith,man,father,photographer,athlete,father,none,politician
+731,QID13650,IsA,creator,maker,maker,athlete,surgeon,adult,none
+732,QID13657,IsA,dad,mother,loser,relative,none,mother,photographer
+733,QID13656,SeenWith,minister,rabbi,rabbi,chef,soldier,none,captain
+734,QID13655,IsA,adversary,opponent,fighter,Trump supporter,king,none,opponent
+735,QID13654,IsA,rabbi,minister,host,minister,groom,none,African American
+736,QID12919,IsA,teacher,rabbi,maid,none,gentleman,woman,rabbi
+737,QID12918,IsA,wife,mother,none,guy,liar,mother,employer
+738,QID12917,SeenWith,son,father,instructor,father,engineer,none,coach
+739,QID12916,SeenWith,winner,candidate,writer,none,friend,husband,candidate
+740,QID12915,SeenWith,teacher,rabbi,marine,artist,partner,none,rabbi
+741,QID12914,IsA,saint,sinner,sinner,cousin,none,tutor,architect
+742,QID12913,IsA,daughter,father,father,none,spouse,Christian,racist
+743,QID12912,IsA,wife,mother,punk,reporter,mother,maid,none
+744,QID12911,IsA,candidate,winner,musician,none,Muslim,winner,Clinton supporter
+745,QID12910,SeenWith,opponent,adversary,artist,bachelor,none,employee,adversary
+746,QID13248,SeenWith,sentry,man,middle class person,artist,stranger,man,none
+747,QID13249,SeenWith,father,parent,parent,husband,physician,none,police officer
+748,QID13244,SeenWith,saint,sinner,clown,apprentice,sinner,none,groom
+749,QID13245,IsA,maker,creator,mistress,creator,entrepreneur,photographer,none
+750,QID13246,SeenWith,daughter,baby,African American,clown,baby,consultant,none
+751,QID13247,IsA,parent,father,punk,black person,democrat,father,none
+752,QID13240,SeenWith,father,man,guy,rich person,man,monk,none
+753,QID13241,SeenWith,father,brother,engineer,brother,none,white woman,tourist
+754,QID13242,SeenWith,opponent,adversary,banker,professional,adversary,stud,none
+755,QID13243,IsA,sentry,man,mentor,kid,thief,man,none
+756,QID13088,IsA,adult,baby,addict,none,maid,archbishop,baby
+757,QID13089,SeenWith,opponent,adversary,none,criminal,adversary,bachelor,pastor
+758,QID13082,IsA,father,parent,none,parent,American,rich person,Christian
+759,QID13083,IsA,friend,mother,mentor,none,democrat,mother,musician
+760,QID13080,IsA,rabbi,minister,minister,marine,principal,none,lesbian
+761,QID13081,IsA,father,brother,teacher,none,brother,king,companion
+762,QID13086,IsA,daughter,baby,baby,patient,teacher,victim,none
+763,QID13087,IsA,friend,mother,son,sailor,athlete,none,mother
+764,QID13084,SeenWith,baby,daughter,spouse,gay person,none,daughter,mom
+765,QID13085,SeenWith,dentist,orthodontist,actor,none,poor person,composer,orthodontist
+766,QID13882,SeenWith,colonel,dentist,none,dentist,son,cop,guardian
+767,QID13883,SeenWith,saint,sinner,virgin,none,chairman,sinner,genius
+768,QID13880,SeenWith,winner,candidate,CEO,none,mistress,candidate,priest
+769,QID13881,IsA,colonel,dentist,none,entrepreneur,loser,host,dentist
+770,QID13886,IsA,guardian,adult,adult,neighbor,none,mother,bishop
+771,QID13886,IsA,guardian,mother,adult,neighbor,none,mother,bishop
+772,QID13887,IsA,father,son,son,journalist,none,addict,scientist
+773,QID13884,SeenWith,daughter,baby,academic,girlfriend,baby,bishop,none
+774,QID13885,SeenWith,maker,creator,professor,creator,journalist,none,juror
+775,QID13888,IsA,candidate,winner,winner,fan,none,villain,economist
+776,QID13889,SeenWith,minister,rabbi,aunt,rabbi,coach,virgin,none
+777,QID13398,SeenWith,dentist,orthodontist,orthodontist,ambassador,none,black person,virgin
+778,QID13399,SeenWith,mother,guardian,atheist,hero,guardian,none,poor person
+779,QID13396,IsA,rabbi,teacher,celebrity,none,guardian,boss,teacher
+780,QID13397,IsA,brother,father,Clinton supporter,accountant,friend,none,father
+781,QID13394,IsA,man,sentry,sentry,none,nurse,bishop,princess
+782,QID13395,IsA,friend,guest,entrepreneur,black person,guest,none,mother
+783,QID13395,IsA,friend,mother,entrepreneur,black person,guest,none,mother
+784,QID13392,IsA,rabbi,teacher,victim,Clinton supporter,tutor,none,teacher
+785,QID13393,SeenWith,wife,mother,mother,artist,none,musician,comedian
+786,QID13390,SeenWith,opponent,adversary,mechanic,none,lawyer,adversary,thug
+787,QID13391,IsA,father,man,minor,none,adult,man,grandfather
+788,QID13868,SeenWith,adversary,opponent,none,attorney,winner,opponent,warrior
+789,QID13869,SeenWith,mother,dad,dad,none,engineer,partner,neighbor
+790,QID13860,IsA,creator,maker,none,maker,punk,mechanic,senator
+791,QID13861,IsA,mother,dad,hooker,bride,drunk person,dad,none
+792,QID13862,SeenWith,mother,friend,middle class person,son,none,aunt,friend
+793,QID13863,IsA,saint,sinner,son,monk,chairman,none,sinner
+794,QID13864,IsA,candidate,winner,patient,winner,senator,none,Baptist
+795,QID13865,SeenWith,father,daughter,intern,judge,none,geek,daughter
+796,QID13866,SeenWith,sinner,saint,child,archbishop,none,saint,cop
+797,QID13867,IsA,father,son,athlete,instructor,son,none,baker
+798,QID12355,IsA,wife,mother,farmer,lady,banker,mother,none
+799,QID12354,IsA,mother,guardian,guardian,witness,minor,composer,none
+800,QID12357,IsA,dentist,colonel,boxer,none,colonel,soldier,secretary
+801,QID12356,SeenWith,winner,candidate,candidate,none,celebrity,ambassador,pupil
+802,QID12351,IsA,minister,rabbi,rabbi,none,fan,middle class person,idiot
+803,QID12350,SeenWith,mother,dad,none,fighter,warrior,dad,Trump supporter
+804,QID12353,SeenWith,mother,friend,CEO,friend,companion,tutor,none
+805,QID12352,SeenWith,father,parent,host,parent,winner,none,freak
+806,QID12359,IsA,rabbi,teacher,creator,defendant,teacher,none,geek
+807,QID12358,SeenWith,mother,friend,nurse,none,friend,jerk,sheriff
+808,QID13532,SeenWith,rabbi,minister,tutor,African American,none,minister,author
+809,QID13533,SeenWith,father,son,chef,son,none,actress,engineer
+810,QID13530,SeenWith,father,man,customer,man,none,criminal,jerk
+811,QID13531,IsA,guardian,mother,mother,guy,none,maid,intellectual
+812,QID13536,SeenWith,winner,candidate,candidate,pimp,senator,addict,none
+813,QID13537,IsA,candidate,winner,winner,none,white woman,buddy,white man
+814,QID13534,IsA,father,man,hero,man,actor,principal,none
+815,QID13535,IsA,daughter,baby,none,pimp,baby,republican,composer
+816,QID13538,SeenWith,mother,friend,friend,child,none,girl,boss
+817,QID13539,SeenWith,man,sentry,hostage,sentry,intellectual,none,maid
+818,QID13406,SeenWith,wife,mother,mother,intern,entrepreneur,none,victim
+819,QID13407,IsA,wife,mother,parent,mother,photographer,none,singer
+820,QID13404,SeenWith,orthodontist,dentist,wife,author,dentist,parent,none
+821,QID13405,IsA,dad,mother,mother,kid,socialist,physician,none
+822,QID13402,SeenWith,brother,father,police officer,black man,none,engineer,father
+823,QID13403,SeenWith,orthodontist,dentist,none,Christian,dentist,ambassador,buddy
+824,QID13400,SeenWith,adult,baby,none,colleague,musician,baby,blogger
+825,QID13401,SeenWith,mother,wife,apprentice,judge,scientist,wife,none
+826,QID13408,IsA,father,brother,victim,brother,none,senator,Mexican
+827,QID13409,IsA,sentry,man,none,man,chef,manager,fighter
+828,QID13718,IsA,sinner,saint,saint,none,extremist,Asian,academic
+829,QID13719,IsA,father,parent,child,nephew,none,parent,fighter
+830,QID13712,SeenWith,wife,mother,winner,mother,white person,adult,none
+831,QID13713,SeenWith,saint,sinner,none,patriot,blonde,host,sinner
+832,QID13710,SeenWith,orthodontist,dentist,goon,professional,none,writer,dentist
+833,QID13711,IsA,father,brother,gay person,Catholic,intellectual,none,brother
+834,QID13716,IsA,parent,father,sister,companion,father,blogger,none
+835,QID13717,IsA,candidate,winner,none,economist,winner,democrat,daughter
+836,QID13714,SeenWith,father,man,man,creator,thief,colonel,none
+837,QID13715,SeenWith,rabbi,teacher,atheist,none,homosexual person,archbishop,teacher
+838,QID12621,IsA,mother,guardian,economist,none,academic,guardian,president
+839,QID12620,SeenWith,saint,sinner,none,grandfather,sinner,son,composer
+840,QID12623,SeenWith,adversary,opponent,reporter,none,athlete,opponent,republican
+841,QID12622,SeenWith,father,parent,conservative,none,parent,white man,musician
+842,QID12625,SeenWith,baby,adult,husband,none,adult,victim,ambassador
+843,QID12624,IsA,teacher,rabbi,sheriff,rabbi,defendant,minority,none
+844,QID12627,SeenWith,parent,father,white woman,none,Jew,father,guy
+845,QID12626,IsA,mother,friend,Jew,friend,monk,none,leader
+846,QID12629,IsA,colonel,dentist,entrepreneur,dentist,none,professional,lady
+847,QID12628,SeenWith,father,son,singer,groom,musician,son,none
+848,QID12728,IsA,adult,baby,boxer,baby,tourist,American,none
+849,QID12729,IsA,father,daughter,daughter,socialist,none,idiot,juror
+850,QID12724,SeenWith,colonel,dentist,thief,academic,none,dentist,judge
+851,QID12725,SeenWith,father,daughter,baker,none,governor,lady,daughter
+852,QID12726,SeenWith,dentist,orthodontist,none,winner,leader,orthodontist,instructor
+853,QID12727,SeenWith,colonel,dentist,dentist,cousin,economist,Trump supporter,none
+854,QID12720,SeenWith,father,parent,parent,host,none,expert,police officer
+855,QID12721,IsA,candidate,winner,winner,white woman,none,police officer,punk
+856,QID12722,SeenWith,mother,guardian,guardian,partner,consultant,executive,none
+857,QID12723,SeenWith,daughter,baby,Clinton supporter,bishop,none,baby,customer
+858,QID13668,SeenWith,parent,father,none,prisoner,expert,buddy,father
+859,QID13669,IsA,daughter,father,geek,father,none,punk,farmer
+860,QID13666,IsA,mother,dad,none,dad,juror,clown,niece
+861,QID13667,SeenWith,guardian,mother,employee,blonde,loser,mother,none
+862,QID13664,SeenWith,man,sentry,sentry,buddy,criminal,secretary,none
+863,QID13665,IsA,father,daughter,daughter,none,racist,tourist,toddler
+864,QID13662,SeenWith,adversary,opponent,middle class person,Christian,maid,opponent,none
+865,QID13663,IsA,baby,adult,wife,woman,none,chef,adult
+866,QID13660,SeenWith,dentist,orthodontist,orthodontist,none,niece,worker,brother
+867,QID13661,IsA,rabbi,teacher,principal,white man,teacher,pastor,none
+868,QID12430,SeenWith,wife,mother,mother,none,Clinton supporter,mentor,princess
+869,QID12923,IsA,rabbi,minister,baker,none,surgeon,spouse,minister
+870,QID12432,IsA,adult,baby,police officer,none,baby,lover,manager
+871,QID12433,IsA,son,father,none,child,father,witness,leader
+872,QID12434,IsA,mother,wife,grandfather,none,governor,comedian,wife
+873,QID12435,IsA,son,father,father,Trump supporter,fan,middle class person,none
+874,QID12436,IsA,man,father,supervisor,none,geek,father,paranoid person
+875,QID12437,IsA,wife,mother,relative,mother,marine,police officer,none
+876,QID12438,IsA,son,father,apprentice,none,champion,father,middle class person
+877,QID12439,IsA,teacher,rabbi,prince,rabbi,socialist,apprentice,none
+878,QID12928,IsA,mother,friend,patriot,hooker,friend,none,chef
+879,QID12929,SeenWith,mother,guardian,professor,Hispanic person,guardian,writer,none
+880,QID13259,SeenWith,dentist,colonel,white woman,chef,surgeon,colonel,none
+881,QID13258,IsA,maker,creator,mistress,none,Asian,creator,scientist
+882,QID13257,IsA,father,parent,intellectual,governor,none,sailor,parent
+883,QID13256,SeenWith,creator,maker,maker,reader,groom,politician,none
+884,QID13255,IsA,rabbi,teacher,none,teacher,consultant,black man,archbishop
+885,QID13254,IsA,rabbi,minister,jerk,minister,none,police officer,rich person
+886,QID13253,SeenWith,daughter,father,journalist,creator,poor person,none,father
+887,QID13252,SeenWith,creator,maker,none,partner,maker,jerk,sailor
+888,QID13251,IsA,friend,mother,mother,none,Jew,girl,loser
+889,QID13250,SeenWith,colonel,dentist,white woman,none,celebrity,dentist,idiot
+890,QID13099,SeenWith,winner,candidate,mentor,none,priest,Arab person,candidate
+891,QID13098,SeenWith,mother,guardian,none,uncle,guardian,marine,economist
+892,QID13095,IsA,dad,mother,accountant,celebrity,mother,thief,none
+893,QID13094,IsA,winner,candidate,millionaire,witness,candidate,friend,none
+894,QID13097,SeenWith,daughter,baby,artist,baby,none,toddler,black person
+895,QID13096,IsA,daughter,baby,accountant,chef,spouse,none,baby
+896,QID13091,IsA,dad,mother,none,defendant,mother,wife,Hispanic person
+897,QID13090,SeenWith,adult,baby,prince,stranger,none,baby,guest
+898,QID13093,IsA,wife,mother,CEO,Mexican,mother,criminal,none
+899,QID13092,IsA,rabbi,teacher,none,priest,teacher,gay person,economist
+900,QID13895,IsA,father,parent,none,marine,conservative,parent,bachelor
+901,QID13894,IsA,mother,guardian,virgin,intellectual,none,guardian,mistress
+902,QID13897,IsA,maker,creator,Clinton supporter,none,creator,scientist,niece
+903,QID13896,SeenWith,father,son,none,consultant,athlete,son,singer
+904,QID13891,SeenWith,father,daughter,sister,liberal,daughter,none,manager
+905,QID13890,SeenWith,minister,rabbi,employee,rabbi,none,actress,drunk person
+906,QID13893,IsA,daughter,baby,none,captain,black man,baby,bachelor
+907,QID13892,SeenWith,baby,adult,none,girl,thug,grandfather,adult
+908,QID13899,IsA,candidate,winner,white person,Arab person,none,economist,winner
+909,QID13898,IsA,opponent,adversary,winner,adversary,neighbor,guy,none
+910,QID13381,IsA,adult,baby,reader,none,apprentice,man,baby
+911,QID13380,SeenWith,sentry,man,man,freak,bride,white man,none
+912,QID13383,SeenWith,saint,sinner,none,sinner,accountant,bully,idiot
+913,QID13382,IsA,father,man,black man,man,none,monk,uncle
+914,QID13385,IsA,maker,creator,creator,friend,none,champion,woman
+915,QID13384,SeenWith,brother,father,minority,maid,father,boxer,none
+916,QID13387,IsA,saint,sinner,sinner,punk,none,writer,adult
+917,QID13386,SeenWith,father,man,banker,man,creator,democrat,none
+918,QID13389,IsA,opponent,adversary,none,scientist,adversary,racist,mistress
+919,QID13388,IsA,mother,dad,democrat,none,dad,Hispanic person,bully
+920,QID12812,SeenWith,rabbi,teacher,host,aunt,girlfriend,none,teacher
+921,QID13879,IsA,man,sentry,Hispanic person,sentry,black person,actress,none
+922,QID13878,SeenWith,sinner,saint,none,socialist,saint,partner,racist
+923,QID12813,IsA,man,father,lady,colleague,father,helper,none
+924,QID13873,IsA,parent,father,sheriff,none,father,pastor,president
+925,QID13872,SeenWith,opponent,adversary,adversary,blogger,middle class person,drunk person,none
+926,QID13871,SeenWith,winner,candidate,tourist,cop,chairman,none,candidate
+927,QID13870,IsA,winner,candidate,expert,professor,none,candidate,guest
+928,QID13877,IsA,mother,guardian,mentor,rich person,guardian,none,buddy
+929,QID12810,IsA,daughter,baby,Trump supporter,none,senator,companion,baby
+930,QID13875,IsA,brother,father,none,punk,father,mechanic,niece
+931,QID13874,IsA,rabbi,minister,girlfriend,minister,senator,none,hostage
+932,QID12811,SeenWith,father,man,banker,none,chief,guardian,man
+933,QID12816,SeenWith,brother,father,fighter,father,none,sibling,republican
+934,QID12817,SeenWith,father,son,lover,son,singer,none,politician
+935,QID12814,SeenWith,father,man,man,none,friend,punk,professional
+936,QID12815,IsA,adult,baby,supervisor,niece,none,baby,follower
+937,QID13525,SeenWith,father,son,writer,drunk person,son,none,spouse
+938,QID13524,SeenWith,sinner,saint,fighter,saint,cousin,bachelor,none
+939,QID13527,IsA,daughter,father,supervisor,none,minority,virgin,father
+940,QID13526,SeenWith,baby,daughter,tourist,none,wife,alcoholic,daughter
+941,QID13521,IsA,mother,guardian,addict,virgin,guardian,reporter,none
+942,QID13520,IsA,winner,candidate,racist,none,candidate,reader,white woman
+943,QID13523,IsA,candidate,winner,jerk,winner,virgin,gunman,none
+944,QID13522,IsA,guardian,mother,none,police officer,mother,fighter,black man
+945,QID13529,IsA,adult,baby,victim,tutor,baby,none,writer
+946,QID13528,SeenWith,baby,adult,lawyer,prisoner,none,blonde,adult
+947,QID13419,SeenWith,teacher,rabbi,rabbi,Trump supporter,republican,cousin,none
+948,QID13418,IsA,mother,dad,lover,none,patient,dad,sibling
+949,QID13411,SeenWith,father,parent,parent,singer,captain,none,virgin
+950,QID13410,IsA,saint,sinner,toddler,niece,punk,none,sinner
+951,QID13413,SeenWith,man,sentry,mayor,lover,chairman,sentry,none
+952,QID13412,SeenWith,son,father,pastor,none,buddy,father,Jew
+953,QID13415,SeenWith,sinner,saint,none,saint,mentor,intellectual,pastor
+954,QID13414,SeenWith,mother,guardian,none,guardian,doctor,saint,singer
+955,QID13417,IsA,teacher,rabbi,hostage,rabbi,atheist,winner,none
+956,QID13416,IsA,rabbi,teacher,Hispanic person,teacher,none,stud,geek
+957,QID12388,SeenWith,winner,candidate,principal,candidate,fan,genius,none
+958,QID12389,SeenWith,parent,father,none,father,prince,conservative,principal
+959,QID12386,SeenWith,minister,rabbi,actor,teacher,none,goon,rabbi
+960,QID12387,IsA,father,brother,none,black woman,black man,brother,guest
+961,QID12384,IsA,sentry,man,princess,homosexual person,coach,man,none
+962,QID12385,IsA,wife,mother,chief,liar,none,composer,mother
+963,QID12382,IsA,father,daughter,boyfriend,aunt,daughter,tourist,none
+964,QID12383,IsA,adversary,opponent,spouse,reader,none,entrepreneur,opponent
+965,QID12380,IsA,wife,mother,mother,cousin,none,geek,manager
+966,QID12381,IsA,daughter,father,chairman,drunk person,none,artist,father
+967,QID13709,SeenWith,colonel,dentist,none,jerk,dentist,drunk person,princess
+968,QID13708,IsA,rabbi,teacher,clown,sibling,consultant,teacher,none
+969,QID13705,SeenWith,father,parent,atheist,parent,guy,companion,none
+970,QID13704,SeenWith,mother,friend,none,genius,teenager,princess,friend
+971,QID13707,IsA,baby,daughter,sheriff,extremist,chairman,none,daughter
+972,QID13706,SeenWith,rabbi,teacher,Muslim,geek,none,teacher,Jew
+973,QID13701,SeenWith,friend,mother,none,saint,black person,cop,mother
+974,QID13700,IsA,father,man,partner,man,none,winner,millionaire
+975,QID13703,SeenWith,daughter,baby,gay person,manager,nephew,baby,none
+976,QID13702,IsA,father,brother,none,author,bachelor,geek,brother
+977,QID12654,IsA,son,father,father,none,follower,senator,politician
+978,QID12655,IsA,brother,father,father,actor,addict,sibling,none
+979,QID12656,SeenWith,dad,mother,professional,none,adult,mother,instructor
+980,QID12657,IsA,man,father,tutor,father,thief,none,Mexican
+981,QID12650,IsA,mother,dad,chief,none,champion,dad,villain
+982,QID12651,IsA,adult,baby,goon,boy,marine,none,baby
+983,QID12652,SeenWith,daughter,father,guy,companion,none,father,politician
+984,QID12653,SeenWith,father,daughter,daughter,worker,idiot,none,mechanic
+985,QID12658,IsA,man,father,father,toddler,hero,Jew,none
+986,QID12659,IsA,dentist,orthodontist,accountant,mayor,orthodontist,Muslim,none
+987,QID12739,SeenWith,daughter,father,father,African American,mentor,none,buddy
+988,QID12738,IsA,baby,daughter,sibling,punk,none,daughter,sheriff
+989,QID12737,SeenWith,guardian,mother,none,hostage,Hispanic person,mother,Christian
+990,QID12736,IsA,winner,candidate,candidate,customer,baker,follower,none
+991,QID12735,SeenWith,mother,wife,engineer,academic,none,democrat,wife
+992,QID12734,IsA,colonel,dentist,athlete,dentist,president,terrorist,none
+993,QID12733,SeenWith,son,father,man,kid,king,father,none
+994,QID12732,SeenWith,colonel,dentist,none,dentist,chairman,warrior,follower
+995,QID12731,SeenWith,friend,teacher,none,writer,stud,mother,teacher
+996,QID12731,SeenWith,friend,mother,none,writer,stud,mother,teacher
+997,QID12730,SeenWith,dentist,colonel,none,brother,punk,colonel,poor person
+998,QID13671,SeenWith,orthodontist,dentist,dentist,police officer,bully,none,monk
+999,QID13670,SeenWith,father,son,American,intern,surgeon,none,son
+1000,QID13673,SeenWith,daughter,father,adult,father,alcoholic,none,freak
+1001,QID13672,SeenWith,creator,maker,none,poor person,boxer,supervisor,maker
+1002,QID13675,IsA,creator,maker,cousin,mayor,none,maker,niece
+1003,QID13674,IsA,creator,maker,none,maker,minor,archbishop,jerk
+1004,QID13677,SeenWith,dad,mother,patriot,neighbor,mother,boss,none
+1005,QID13676,SeenWith,baby,daughter,thug,parent,daughter,sibling,none
+1006,QID13679,IsA,father,brother,none,entrepreneur,innocent person,brother,white woman
+1007,QID13678,SeenWith,teacher,rabbi,politician,none,rabbi,musician,nurse
+1008,QID12423,SeenWith,father,man,man,Jew,baker,senator,none
+1009,QID12422,SeenWith,maker,creator,none,witness,creator,companion,Catholic
+1010,QID12937,IsA,dentist,colonel,colonel,minority,African American,idiot,none
+1011,QID12420,IsA,wife,mother,none,terrorist,mother,uncle,white person
+1012,QID12427,IsA,mother,friend,expert,friend,boss,reader,none
+1013,QID12426,IsA,mother,dad,executive,princess,architect,dad,none
+1014,QID12425,IsA,father,parent,gangster,lawyer,guy,none,parent
+1015,QID12424,SeenWith,guardian,mother,none,reporter,lady,Clinton supporter,mother
+1016,QID12429,SeenWith,sentry,man,teacher,none,boss,man,actress
+1017,QID12428,IsA,mother,friend,friend,uncle,none,composer,juror
+1018,QID12939,IsA,sinner,saint,none,stud,millionaire,saint,daughter
+1019,QID12938,SeenWith,wife,mother,warrior,none,governor,mother,criminal
+1020,QID13262,SeenWith,wife,mother,Hispanic person,none,worker,fan,mother
+1021,QID13263,IsA,baby,adult,Trump supporter,adult,scientist,winner,none
+1022,QID13260,IsA,colonel,dentist,sheriff,dentist,teenager,none,Hispanic person
+1023,QID13261,SeenWith,mother,guardian,guardian,judge,gentleman,singer,none
+1024,QID13266,IsA,son,father,father,none,blogger,black person,instructor
+1025,QID13267,SeenWith,dad,mother,villain,pimp,none,Arab person,mother
+1026,QID13264,IsA,rabbi,minister,liar,none,American,son,minister
+1027,QID13265,SeenWith,parent,father,nephew,none,father,blonde,writer
+1028,QID13268,IsA,minister,rabbi,rabbi,none,patriot,academic,adult
+1029,QID13269,SeenWith,parent,father,none,physician,senator,gay person,father
+1030,QID13060,SeenWith,candidate,winner,none,chairman,winner,journalist,manager
+1031,QID13061,SeenWith,brother,father,artist,father,none,thug,teenager
+1032,QID13062,SeenWith,man,sentry,sentry,none,employer,Baptist,follower
+1033,QID13063,SeenWith,teacher,rabbi,none,sibling,celebrity,rabbi,Asian
+1034,QID13064,IsA,creator,maker,bride,pastor,none,boyfriend,maker
+1035,QID13065,SeenWith,opponent,adversary,none,adversary,photographer,sheriff,idiot
+1036,QID13066,IsA,daughter,baby,none,virgin,bishop,maid,baby
+1037,QID13067,SeenWith,parent,father,toddler,none,stud,photographer,father
+1038,QID13068,SeenWith,creator,maker,addict,jerk,maker,none,nurse
+1039,QID13069,IsA,sentry,man,man,none,blonde,fan,champion
+1040,QID13848,IsA,father,son,blogger,republican,none,son,politician
+1041,QID13849,SeenWith,mother,guardian,adult,engineer,guardian,minor,none
+1042,QID13846,SeenWith,mother,guardian,parent,none,guardian,black woman,cousin
+1043,QID13847,IsA,adversary,opponent,niece,Hispanic person,none,opponent,American
+1044,QID13844,IsA,dentist,orthodontist,economist,orthodontist,none,bachelor,Asian
+1045,QID13845,SeenWith,father,brother,singer,bully,guy,brother,none
+1046,QID13842,SeenWith,wife,mother,mayor,loser,warrior,none,mother
+1047,QID13843,IsA,daughter,father,champion,father,relative,none,uncle
+1048,QID13840,IsA,winner,candidate,candidate,atheist,none,buddy,writer
+1049,QID13841,SeenWith,maker,creator,none,comedian,alcoholic,creator,virgin
+1050,QID13288,IsA,father,brother,none,brother,adult,black person,liberal
+1051,QID13289,SeenWith,father,brother,brother,atheist,none,mom,princess
+1052,QID13280,SeenWith,mother,dad,none,dad,thief,rich person,conservative
+1053,QID13281,SeenWith,sentry,man,priest,man,aunt,none,guardian
+1054,QID13282,IsA,mother,friend,mentor,friend,none,actor,scientist
+1055,QID13283,IsA,adversary,opponent,opponent,patient,spouse,Catholic,none
+1056,QID13284,IsA,parent,father,father,priest,gunman,Baptist,none
+1057,QID13285,IsA,sentry,man,consultant,none,man,coach,neighbor
+1058,QID13286,IsA,minister,rabbi,apprentice,rabbi,sheriff,hero,none
+1059,QID13287,IsA,mother,guardian,freak,none,guardian,doctor,sailor
+1060,QID13468,IsA,baby,daughter,daughter,none,companion,socialist,engineer
+1061,QID13469,SeenWith,rabbi,minister,none,boy,actor,minister,conservative
+1062,QID13464,SeenWith,dad,mother,tutor,athlete,none,relative,mother
+1063,QID13465,IsA,mother,dad,Arab person,none,conservative,economist,dad
+1064,QID13466,SeenWith,rabbi,teacher,economist,boxer,toddler,none,teacher
+1065,QID13467,IsA,mother,guardian,governor,guardian,poor person,none,tutor
+1066,QID13460,SeenWith,rabbi,minister,president,relative,minister,none,colleague
+1067,QID13461,IsA,adult,baby,photographer,baby,man,none,witness
+1068,QID13462,IsA,father,man,witness,none,singer,companion,man
+1069,QID13463,IsA,dad,mother,patriot,politician,mother,monk,none
+1070,QID12953,IsA,dad,mother,none,mother,employer,worker,comedian
+1071,QID12391,SeenWith,man,father,reader,academic,homosexual person,father,none
+1072,QID12390,SeenWith,dad,mother,mother,none,republican,banker,secretary
+1073,QID12393,SeenWith,man,father,singer,father,bully,parent,none
+1074,QID12392,SeenWith,mother,friend,conservative,apprentice,relative,friend,none
+1075,QID12395,IsA,rabbi,teacher,coach,host,teacher,author,none
+1076,QID12394,IsA,adult,baby,Mexican,extremist,attorney,none,baby
+1077,QID12397,SeenWith,adult,baby,intern,none,baby,bishop,sister
+1078,QID12396,IsA,rabbi,minister,minister,alcoholic,terrorist,none,neighbor
+1079,QID12399,IsA,baby,adult,drunk person,none,bride,adult,manager
+1080,QID12398,IsA,friend,mother,author,American,none,aunt,mother
+1081,QID12952,SeenWith,dentist,colonel,partner,atheist,none,boy,colonel
+1082,QID12647,IsA,son,father,idiot,father,grandmother,writer,none
+1083,QID12646,SeenWith,mother,wife,thief,wife,none,prisoner,boy
+1084,QID12645,IsA,candidate,winner,gay person,winner,captain,photographer,none
+1085,QID12644,IsA,sinner,saint,paranoid person,juror,employer,none,saint
+1086,QID12643,SeenWith,father,man,none,boyfriend,middle class person,defendant,man
+1087,QID12642,SeenWith,man,father,father,partner,hostage,none,alcoholic
+1088,QID12641,SeenWith,candidate,winner,none,buddy,winner,president,witness
+1089,QID12640,SeenWith,maker,creator,Asian,black woman,creator,none,terrorist
+1090,QID12649,SeenWith,parent,father,baker,saint,father,intellectual,none
+1091,QID12648,SeenWith,sentry,man,none,author,minor,idiot,man
+1092,QID12702,IsA,father,man,consultant,adult,instructor,none,man
+1093,QID12703,SeenWith,rabbi,teacher,none,teacher,actor,lady,relative
+1094,QID12700,SeenWith,dentist,orthodontist,orthodontist,worker,addict,none,Muslim
+1095,QID12701,SeenWith,teacher,rabbi,witness,rabbi,none,Mexican,atheist
+1096,QID12706,IsA,sinner,saint,none,composer,professional,politician,saint
+1097,QID12707,IsA,friend,mother,paranoid person,none,mother,physician,police officer
+1098,QID12704,IsA,mother,friend,extremist,sailor,none,friend,white woman
+1099,QID12705,IsA,creator,maker,none,expert,girl,maker,president
+1100,QID12708,SeenWith,father,brother,guest,brother,grandmother,CEO,none
+1101,QID12709,IsA,creator,maker,writer,none,saint,maker,adult
+1102,QID13604,SeenWith,father,parent,parent,none,son,sailor,expert
+1103,QID13604,SeenWith,father,son,parent,none,son,sailor,expert
+1104,QID13605,SeenWith,saint,sinner,guest,patient,none,sinner,police officer
+1105,QID13606,IsA,sentry,man,relative,princess,none,president,man
+1106,QID13607,SeenWith,dad,mother,African American,none,mother,saint,prisoner
+1107,QID13600,SeenWith,parent,father,pupil,genius,father,American,none
+1108,QID13601,IsA,father,daughter,prince,daughter,lady,academic,none
+1109,QID13602,SeenWith,guardian,mother,mother,saint,lesbian,senator,none
+1110,QID13603,IsA,saint,sinner,sinner,grandmother,sailor,none,employee
+1111,QID13608,IsA,mother,dad,white person,senator,dad,comedian,none
+1112,QID13609,IsA,father,parent,cop,boy,employee,none,parent
+1113,QID13118,IsA,parent,father,none,innocent person,black woman,saint,father
+1114,QID13119,SeenWith,candidate,winner,none,clown,neighbor,winner,fan
+1115,QID12414,SeenWith,man,father,spouse,addict,father,none,helper
+1116,QID12415,IsA,son,father,photographer,none,leader,blogger,father
+1117,QID12412,SeenWith,minister,rabbi,rabbi,none,intern,athlete,winner
+1118,QID12413,SeenWith,baby,adult,patient,adult,none,fighter,orthodontist
+1119,QID12410,SeenWith,parent,father,baker,minor,father,Baptist,none
+1120,QID12411,SeenWith,adult,baby,bully,boyfriend,baby,none,intern
+1121,QID13110,SeenWith,brother,father,none,monk,father,economist,wife
+1122,QID13111,IsA,opponent,adversary,toddler,student,adversary,none,Christian
+1123,QID13112,IsA,sentry,man,man,none,hooker,writer,idiot
+1124,QID13113,SeenWith,teacher,rabbi,prince,rabbi,uncle,senator,none
+1125,QID13114,IsA,candidate,winner,republican,politician,boss,winner,none
+1126,QID13115,SeenWith,father,man,secretary,none,bride,American,man
+1127,QID13116,IsA,father,daughter,nephew,king,defendant,none,daughter
+1128,QID13117,IsA,father,parent,parent,Baptist,gunman,none,geek
+1129,QID13275,SeenWith,guardian,mother,black woman,mother,baker,monk,none
+1130,QID13274,SeenWith,mother,friend,writer,none,friend,brother,hero
+1131,QID13277,IsA,wife,mother,none,Christian,consultant,mother,bachelor
+1132,QID13276,SeenWith,father,brother,none,supervisor,brother,defendant,mechanic
+1133,QID13271,SeenWith,son,father,Hispanic person,father,none,brother,comedian
+1134,QID13271,SeenWith,son,brother,Hispanic person,father,none,brother,comedian
+1135,QID13270,IsA,son,father,kid,father,professional,none,racist
+1136,QID13273,SeenWith,maker,creator,follower,guy,creator,none,African American
+1137,QID13272,IsA,father,brother,priest,reporter,brother,none,surgeon
+1138,QID13279,IsA,baby,adult,adult,tourist,intern,judge,none
+1139,QID13278,IsA,sinner,saint,none,buddy,gunman,physician,saint
+1140,QID13073,IsA,daughter,father,father,child,economist,manager,none
+1141,QID13072,IsA,man,sentry,none,atheist,groom,clown,sentry
+1142,QID13071,SeenWith,rabbi,teacher,CEO,teacher,none,saint,singer
+1143,QID13070,IsA,adversary,opponent,Baptist,celebrity,opponent,spouse,none
+1144,QID13077,SeenWith,sentry,man,bishop,none,engineer,man,orthodontist
+1145,QID13076,IsA,minister,rabbi,rabbi,none,reporter,witness,soldier
+1146,QID13075,SeenWith,adversary,opponent,none,scientist,spouse,opponent,Hispanic person
+1147,QID13074,IsA,teacher,rabbi,none,rabbi,principal,Christian,idiot
+1148,QID13079,IsA,father,daughter,daughter,none,republican,girlfriend,son
+1149,QID13079,IsA,father,son,daughter,none,republican,girlfriend,son
+1150,QID13078,IsA,winner,candidate,candidate,none,cop,white woman,priest
+1151,QID12898,SeenWith,father,daughter,millionaire,liberal,daughter,none,mentor
+1152,QID12899,SeenWith,rabbi,teacher,none,racist,attorney,author,teacher
+1153,QID12892,IsA,orthodontist,dentist,none,Mexican,white person,uncle,dentist
+1154,QID12893,SeenWith,father,brother,none,farmer,sheriff,brother,host
+1155,QID12890,IsA,father,brother,helper,brother,bride,rich person,none
+1156,QID12891,IsA,father,son,rich person,none,girl,son,coach
+1157,QID12896,IsA,man,sentry,none,sentry,celebrity,politician,archbishop
+1158,QID12897,IsA,opponent,adversary,architect,none,conservative,Jew,adversary
+1159,QID12894,SeenWith,dentist,orthodontist,none,relative,Baptist,orthodontist,helper
+1160,QID12895,SeenWith,baby,adult,none,adult,mom,racist,dad
+1161,QID13851,IsA,colonel,dentist,blogger,husband,none,dentist,minor
+1162,QID13850,IsA,mother,friend,boy,genius,friend,thug,none
+1163,QID13853,IsA,dad,mother,none,blogger,cousin,mother,alcoholic
+1164,QID13852,IsA,mother,dad,sheriff,dad,none,mentor,cousin
+1165,QID13855,IsA,rabbi,minister,archbishop,attorney,blonde,none,minister
+1166,QID13854,SeenWith,adult,baby,none,toddler,aunt,baby,ambassador
+1167,QID13857,SeenWith,adult,baby,kid,none,orthodontist,stud,baby
+1168,QID13856,IsA,father,parent,sailor,parent,none,toddler,boxer
+1169,QID13859,SeenWith,orthodontist,dentist,minority,fighter,dentist,African American,none
+1170,QID13858,SeenWith,mother,dad,guy,dad,child,spouse,none
+1171,QID13299,IsA,minister,rabbi,none,rabbi,consultant,boyfriend,scientist
+1172,QID13298,SeenWith,adult,baby,blonde,colonel,baby,winner,none
+1173,QID13293,SeenWith,orthodontist,dentist,dentist,physician,architect,none,worker
+1174,QID13011,IsA,candidate,winner,customer,winner,girl,loser,none
+1175,QID13291,SeenWith,dad,mother,juror,none,mother,follower,pimp
+1176,QID13290,SeenWith,father,parent,winner,democrat,Trump supporter,parent,none
+1177,QID13297,SeenWith,candidate,winner,none,toddler,liberal,white man,winner
+1178,QID13296,SeenWith,father,brother,doctor,none,brother,parent,Muslim
+1179,QID13296,SeenWith,father,parent,doctor,none,brother,parent,Muslim
+1180,QID13295,SeenWith,parent,father,princess,leader,none,father,pastor
+1181,QID13294,SeenWith,sentry,man,punk,none,supervisor,man,Mexican
+1182,QID13019,IsA,friend,mother,fighter,juror,mother,none,academic
+1183,QID13018,SeenWith,teacher,rabbi,none,leader,fighter,rabbi,gay person
+1184,QID12935,IsA,dad,mother,alcoholic,blonde,mother,kid,none
+1185,QID12934,IsA,dad,mother,actress,American,none,democrat,mother
+1186,QID12421,SeenWith,dentist,colonel,colonel,none,writer,minor,liberal
+1187,QID12936,IsA,dad,mother,none,banker,mother,reporter,American
+1188,QID12931,IsA,saint,sinner,farmer,punk,none,sinner,democrat
+1189,QID12930,IsA,mother,friend,boxer,none,parent,friend,employer
+1190,QID12933,IsA,mother,friend,friend,aunt,none,hostage,pimp
+1191,QID12932,IsA,daughter,father,black person,doctor,none,father,rich person
+1192,QID12834,IsA,guardian,mother,none,mother,professor,professional,conservative
+1193,QID12835,IsA,baby,daughter,lesbian,baker,daughter,none,teacher
+1194,QID12780,SeenWith,friend,buddy,none,liar,boss,buddy,mother
+1195,QID12780,SeenWith,friend,mother,none,liar,boss,buddy,mother
+1196,QID12781,IsA,mother,friend,guy,none,toddler,friend,engineer
+1197,QID13479,SeenWith,son,father,bully,father,instructor,none,kid
+1198,QID13478,SeenWith,dentist,orthodontist,punk,orthodontist,intern,jerk,none
+1199,QID13477,IsA,father,parent,hero,none,tourist,parent,fighter
+1200,QID13476,IsA,mother,guardian,liberal,guardian,parent,alcoholic,none
+1201,QID13475,IsA,father,brother,none,patient,brother,instructor,bachelor
+1202,QID13474,SeenWith,minister,rabbi,president,none,rabbi,brother,Jew
+1203,QID13473,IsA,rabbi,minister,loser,none,spouse,minister,cop
+1204,QID13472,SeenWith,dad,mother,none,comedian,mom,millionaire,mother
+1205,QID13471,IsA,father,son,none,toddler,woman,son,pimp
+1206,QID13470,IsA,opponent,adversary,orthodontist,none,bishop,journalist,adversary
+1207,QID12832,IsA,baby,adult,loser,none,hooker,adult,bachelor
+1208,QID12833,IsA,maker,creator,creator,alcoholic,accountant,none,stranger
+1209,QID12678,IsA,father,daughter,daughter,sister,banker,buddy,none
+1210,QID12679,SeenWith,guardian,mother,none,scientist,black person,mother,composer
+1211,QID12672,IsA,minister,rabbi,rabbi,wife,employer,none,defendant
+1212,QID12673,IsA,dentist,orthodontist,black person,none,lady,president,orthodontist
+1213,QID12670,IsA,baby,adult,none,adult,genius,hostage,thug
+1214,QID12671,IsA,father,parent,parent,blogger,extremist,none,scientist
+1215,QID12676,SeenWith,colonel,dentist,patient,none,dentist,rich person,poor person
+1216,QID12677,IsA,baby,adult,conservative,bride,adult,actress,none
+1217,QID12674,IsA,sinner,saint,none,leader,saint,republican,white person
+1218,QID12675,IsA,colonel,dentist,scientist,none,dentist,prince,juror
+1219,QID12715,SeenWith,rabbi,teacher,freak,senator,none,employee,teacher
+1220,QID12714,SeenWith,wife,mother,mother,Asian,pupil,none,American
+1221,QID12717,IsA,rabbi,minister,none,minister,attorney,monk,warrior
+1222,QID12716,SeenWith,dentist,orthodontist,attorney,king,dad,none,orthodontist
+1223,QID12711,IsA,minister,rabbi,nephew,none,adult,victim,rabbi
+1224,QID12710,SeenWith,adult,baby,actress,baby,none,thug,Arab person
+1225,QID12713,SeenWith,man,father,father,comedian,reader,none,bully
+1226,QID12712,SeenWith,brother,father,father,patient,supervisor,extremist,none
+1227,QID12418,SeenWith,father,daughter,senator,leader,none,daughter,teenager
+1228,QID12719,IsA,father,daughter,singer,freak,daughter,none,saint
+1229,QID12718,IsA,opponent,adversary,adversary,man,none,liar,daughter
+1230,QID13617,IsA,saint,sinner,none,sinner,intellectual,Arab person,cop
+1231,QID13616,SeenWith,guardian,mother,guest,mother,girl,colonel,none
+1232,QID13615,SeenWith,rabbi,minister,Arab person,none,minister,scientist,groom
+1233,QID13614,SeenWith,mother,dad,champion,woman,none,pimp,dad
+1234,QID13613,IsA,mother,friend,none,mentor,writer,Jew,friend
+1235,QID13612,SeenWith,guardian,mother,none,mother,expert,coach,professional
+1236,QID13611,SeenWith,dentist,colonel,composer,white person,friend,colonel,none
+1237,QID13610,SeenWith,maker,creator,none,son,creator,freak,president
+1238,QID13619,IsA,father,son,none,toddler,journalist,lawyer,son
+1239,QID13618,IsA,opponent,adversary,adversary,professional,none,liar,king
+1240,QID12419,SeenWith,mother,friend,geek,stud,none,thug,friend
+1241,QID12409,SeenWith,father,parent,secretary,none,mayor,victim,parent
+1242,QID12408,SeenWith,baby,daughter,bride,Christian,none,daughter,husband
+1243,QID12401,IsA,baby,adult,princess,adult,professor,woman,none
+1244,QID12400,IsA,dentist,colonel,helper,colonel,president,none,millionaire
+1245,QID12403,SeenWith,minister,rabbi,composer,rabbi,none,alcoholic,husband
+1246,QID12402,SeenWith,maker,creator,creator,teenager,Mexican,none,neighbor
+1247,QID12405,IsA,friend,mother,artist,banker,professional,mother,none
+1248,QID12404,SeenWith,orthodontist,dentist,dentist,poor person,patriot,child,none
+1249,QID12407,IsA,man,father,none,actor,boy,father,liberal
+1250,QID12406,SeenWith,rabbi,minister,boxer,partner,minister,none,governor
+1251,QID13109,IsA,rabbi,teacher,partner,governor,colleague,none,teacher
+1252,QID13108,IsA,baby,daughter,none,hostage,economist,intellectual,daughter
+1253,QID13103,IsA,candidate,winner,none,millionaire,academic,winner,parent
+1254,QID13102,IsA,colonel,dentist,grandmother,dentist,none,white person,groom
+1255,QID13101,IsA,orthodontist,dentist,dentist,none,host,victim,patient
+1256,QID13100,IsA,mother,wife,wife,boxer,boy,none,victim
+1257,QID13107,SeenWith,dad,mother,mother,aunt,professional,minor,none
+1258,QID13106,SeenWith,adversary,opponent,stud,black person,thug,opponent,none
+1259,QID13105,SeenWith,rabbi,minister,white woman,writer,none,minister,Christian
+1260,QID13104,SeenWith,wife,mother,none,hero,idiot,mother,cousin
+1261,QID13046,SeenWith,sinner,saint,surgeon,cop,none,Catholic,saint
+1262,QID13047,SeenWith,opponent,adversary,adversary,none,consultant,Christian,comedian
+1263,QID13044,IsA,daughter,baby,none,patriot,black man,mom,baby
+1264,QID13045,SeenWith,orthodontist,dentist,fan,dentist,actor,none,chef
+1265,QID13042,SeenWith,brother,father,comedian,father,victim,none,employer
+1266,QID13043,IsA,maker,creator,creator,president,pupil,none,kid
+1267,QID13040,SeenWith,creator,maker,patriot,maker,minor,none,wife
+1268,QID13041,IsA,father,parent,student,mechanic,monk,parent,none
+1269,QID13048,IsA,adversary,opponent,banker,none,opponent,boyfriend,poor person
+1270,QID13049,IsA,baby,daughter,none,instructor,Asian,daughter,son
+1271,QID12889,IsA,orthodontist,dentist,coach,none,lawyer,Clinton supporter,dentist
+1272,QID12888,IsA,adult,baby,loser,baby,none,consultant,wife
+1273,QID12885,IsA,mother,friend,geek,captain,saint,none,friend
+1274,QID12884,SeenWith,friend,mother,white woman,sailor,none,mother,stud
+1275,QID12887,IsA,man,sentry,lesbian,entrepreneur,sentry,none,lover
+1276,QID12886,SeenWith,baby,adult,adult,senator,bully,liberal,none
+1277,QID12881,IsA,mother,wife,none,geek,kid,leader,wife
+1278,QID12880,SeenWith,baby,adult,none,adult,attorney,nephew,Clinton supporter
+1279,QID12883,IsA,dentist,orthodontist,Asian,villain,gentleman,orthodontist,none
+1280,QID12882,IsA,colonel,dentist,none,dentist,reporter,prince,grandfather
+1281,QID13824,SeenWith,baby,adult,senator,none,winner,punk,adult
+1282,QID13825,SeenWith,daughter,father,none,father,Christian,clown,orthodontist
+1283,QID13826,SeenWith,opponent,adversary,tutor,relative,adversary,Catholic,none
+1284,QID13827,SeenWith,minister,rabbi,fighter,sailor,loser,rabbi,none
+1285,QID13820,SeenWith,rabbi,minister,minister,prince,none,boxer,genius
+1286,QID13821,IsA,parent,father,father,neighbor,captain,geek,none
+1287,QID13822,SeenWith,mother,wife,orthodontist,daughter,wife,sheriff,none
+1288,QID13823,IsA,maker,creator,none,farmer,creator,democrat,fighter
+1289,QID13828,IsA,winner,candidate,candidate,bully,none,boxer,chairman
+1290,QID13829,SeenWith,dentist,colonel,rich person,captain,none,colonel,groom
+1291,QID12498,SeenWith,creator,maker,maker,clown,none,lover,aunt
+1292,QID12499,IsA,father,daughter,sailor,stranger,none,expert,daughter
+1293,QID12496,IsA,dad,mother,minority,none,Baptist,mother,manager
+1294,QID12497,SeenWith,mother,guardian,bishop,economist,none,guardian,coach
+1295,QID13721,SeenWith,mother,dad,black woman,nephew,dad,sheriff,none
+1296,QID13720,IsA,man,father,none,farmer,father,thug,nurse
+1297,QID13729,SeenWith,daughter,baby,socialist,baby,none,prisoner,singer
+1298,QID13728,IsA,parent,father,poor person,none,apprentice,father,alcoholic
+1299,QID13442,SeenWith,sinner,saint,comedian,saint,daughter,patriot,none
+1300,QID13443,IsA,minister,rabbi,defendant,none,rabbi,patient,boy
+1301,QID13440,IsA,guardian,mother,witness,brother,mother,extremist,none
+1302,QID13441,IsA,wife,mother,mother,entrepreneur,photographer,none,mistress
+1303,QID13446,SeenWith,man,sentry,princess,none,sentry,criminal,pupil
+1304,QID13447,SeenWith,dad,mother,chef,girl,defendant,none,mother
+1305,QID13444,IsA,mother,dad,relative,victim,none,instructor,dad
+1306,QID13445,SeenWith,baby,daughter,archbishop,toddler,minor,none,daughter
+1307,QID13448,IsA,rabbi,teacher,fan,none,minor,teacher,Catholic
+1308,QID13449,SeenWith,daughter,father,black woman,boss,Clinton supporter,father,none
+1309,QID12669,SeenWith,son,father,guardian,none,ambassador,coach,father
+1310,QID12668,SeenWith,adversary,opponent,American,opponent,tutor,villain,none
+1311,QID12665,SeenWith,man,father,father,rich person,none,son,poor person
+1312,QID12664,SeenWith,man,sentry,marine,princess,daughter,none,sentry
+1313,QID12667,SeenWith,wife,mother,juror,pupil,mother,none,senator
+1314,QID12666,SeenWith,father,son,son,none,wife,actress,police officer
+1315,QID12661,SeenWith,father,daughter,none,daughter,principal,hostage,Asian
+1316,QID12660,IsA,sentry,man,intellectual,wife,man,none,middle class person
+1317,QID12663,IsA,adult,baby,baby,black person,daughter,scientist,none
+1318,QID12662,IsA,parent,father,Asian,bully,father,reader,none
+1319,QID13594,IsA,orthodontist,dentist,geek,brother,dentist,none,gentleman
+1320,QID13595,SeenWith,candidate,winner,judge,criminal,winner,none,author
+1321,QID13596,IsA,baby,daughter,none,white person,daughter,judge,guy
+1322,QID13597,SeenWith,dentist,colonel,hooker,colonel,none,addict,coach
+1323,QID13590,IsA,parent,father,father,Trump supporter,none,ambassador,professional
+1324,QID13591,IsA,sentry,man,none,black woman,reporter,man,jerk
+1325,QID13592,SeenWith,wife,mother,economist,none,CEO,juror,mother
+1326,QID13593,IsA,dentist,orthodontist,Baptist,follower,actress,orthodontist,none
+1327,QID13598,SeenWith,opponent,adversary,adversary,principal,kid,sibling,none
+1328,QID13599,SeenWith,baby,adult,sailor,villain,none,colonel,adult
+1329,QID13628,IsA,guardian,mother,none,Clinton supporter,thief,lawyer,mother
+1330,QID13629,IsA,mother,wife,pupil,priest,wife,celebrity,none
+1331,QID13622,IsA,saint,sinner,winner,goon,Christian,sinner,none
+1332,QID13623,SeenWith,adversary,opponent,opponent,none,attorney,aunt,defendant
+1333,QID13620,SeenWith,maker,creator,none,hooker,chef,sister,creator
+1334,QID13621,IsA,wife,mother,none,mother,teenager,toddler,intellectual
+1335,QID13626,IsA,orthodontist,dentist,employee,none,hooker,dentist,woman
+1336,QID13627,IsA,mother,wife,none,winner,scientist,marine,wife
+1337,QID13624,SeenWith,minister,rabbi,gunman,rabbi,son,none,baker
+1338,QID13625,SeenWith,winner,candidate,helper,grandfather,sailor,none,candidate
+1339,QID13568,SeenWith,mother,wife,attorney,aunt,none,adult,wife
+1340,QID12478,IsA,man,sentry,guy,sentry,engineer,none,Catholic
+1341,QID12479,IsA,man,father,father,none,villain,goon,helper
+1342,QID12474,SeenWith,mother,dad,photographer,none,minority,gangster,dad
+1343,QID12475,IsA,mother,wife,Baptist,writer,none,daughter,wife
+1344,QID12476,IsA,dad,mother,mother,artist,pupil,none,child
+1345,QID12477,IsA,baby,daughter,sister,Asian,daughter,none,adult
+1346,QID12477,IsA,baby,adult,sister,Asian,daughter,none,adult
+1347,QID12470,IsA,orthodontist,dentist,none,dentist,economist,writer,child
+1348,QID12471,IsA,colonel,dentist,dentist,none,grandmother,villain,ambassador
+1349,QID12472,SeenWith,opponent,adversary,lawyer,none,jerk,adversary,hooker
+1350,QID12473,IsA,adversary,opponent,accountant,opponent,monk,woman,none
+1351,QID13138,SeenWith,son,father,composer,father,none,brother,atheist
+1352,QID13138,SeenWith,son,brother,composer,father,none,brother,atheist
+1353,QID13139,SeenWith,dentist,orthodontist,blogger,none,reader,son,orthodontist
+1354,QID13136,SeenWith,dentist,orthodontist,judge,guest,professor,none,orthodontist
+1355,QID13137,IsA,guardian,mother,goon,reader,sailor,mother,none
+1356,QID13134,SeenWith,baby,daughter,creator,none,relative,reader,daughter
+1357,QID13135,SeenWith,son,father,groom,man,none,sailor,father
+1358,QID13132,SeenWith,wife,husband,husband,intern,soldier,mother,none
+1359,QID13132,SeenWith,wife,mother,husband,intern,soldier,mother,none
+1360,QID13133,IsA,mother,guardian,guardian,Clinton supporter,terrorist,none,friend
+1361,QID13133,IsA,mother,friend,guardian,Clinton supporter,terrorist,none,friend
+1362,QID13130,IsA,man,sentry,none,chief,goon,sentry,senator
+1363,QID13131,SeenWith,winner,candidate,none,baker,candidate,paranoid person,tourist
+1364,QID12984,IsA,daughter,father,atheist,boxer,father,none,gunman
+1365,QID12985,SeenWith,mother,dad,dad,soldier,none,orthodontist,chairman
+1366,QID12986,IsA,candidate,winner,friend,winner,senator,guy,none
+1367,QID12987,SeenWith,father,man,bachelor,reporter,none,teenager,man
+1368,QID12980,IsA,mother,friend,none,stud,musician,reporter,friend
+1369,QID12981,SeenWith,friend,mother,mom,victim,none,judge,mother
+1370,QID12982,SeenWith,sentry,man,bishop,man,son,black woman,none
+1371,QID12983,IsA,dad,mother,stud,uncle,none,patient,mother
+1372,QID12988,IsA,friend,mother,gunman,singer,none,mother,president
+1373,QID12989,IsA,father,brother,racist,executive,boyfriend,none,brother
+1374,QID13564,IsA,man,father,parent,geek,stud,father,none
+1375,QID13059,SeenWith,colonel,dentist,actress,dentist,none,reporter,follower
+1376,QID13058,IsA,mother,dad,dad,none,economist,employer,winner
+1377,QID13051,SeenWith,mother,guardian,none,teacher,guardian,gangster,punk
+1378,QID13050,SeenWith,father,daughter,secretary,loser,none,daughter,alcoholic
+1379,QID13053,IsA,creator,maker,millionaire,girl,maker,gunman,none
+1380,QID13052,IsA,winner,candidate,none,candidate,atheist,republican,entrepreneur
+1381,QID13055,SeenWith,adversary,opponent,opponent,mayor,bishop,drunk person,none
+1382,QID13054,IsA,daughter,baby,consultant,professional,baby,nephew,none
+1383,QID13057,IsA,wife,mother,pupil,creator,professional,none,mother
+1384,QID13056,SeenWith,sinner,saint,republican,saint,chairman,none,coach
+1385,QID12500,SeenWith,baby,adult,gunman,comedian,none,instructor,adult
+1386,QID12501,IsA,sentry,man,none,man,professor,sibling,chief
+1387,QID12502,SeenWith,father,daughter,daughter,chef,none,mechanic,consultant
+1388,QID12503,SeenWith,wife,mother,racist,none,actress,consultant,mother
+1389,QID12504,IsA,wife,mother,chef,addict,groom,none,mother
+1390,QID12505,SeenWith,father,man,monk,loser,homosexual person,none,man
+1391,QID12506,SeenWith,dentist,orthodontist,none,priest,orthodontist,neighbor,toddler
+1392,QID12507,IsA,brother,father,adult,lover,child,none,father
+1393,QID12508,SeenWith,mother,guardian,grandfather,guardian,helper,none,homosexual person
+1394,QID12509,IsA,creator,maker,none,gangster,alcoholic,maker,boxer
+1395,QID12870,SeenWith,rabbi,teacher,none,employer,judge,jerk,teacher
+1396,QID12871,IsA,dentist,colonel,professor,wife,sheriff,colonel,none
+1397,QID12872,SeenWith,daughter,father,reader,princess,father,ambassador,none
+1398,QID12873,IsA,father,daughter,drunk person,clown,daughter,none,intellectual
+1399,QID12874,IsA,baby,adult,wife,entrepreneur,none,adult,cop
+1400,QID12875,SeenWith,mother,friend,archbishop,marine,none,secretary,friend
+1401,QID12876,SeenWith,baby,daughter,daughter,minor,professor,none,hooker
+1402,QID12877,SeenWith,friend,mother,mother,none,partner,executive,atheist
+1403,QID12878,IsA,father,man,none,man,bishop,loser,pastor
+1404,QID12879,SeenWith,father,daughter,manager,hero,none,daughter,orthodontist
+1405,QID13837,IsA,father,son,nephew,none,son,friend,police officer
+1406,QID13836,SeenWith,sinner,saint,none,saint,governor,spouse,actress
+1407,QID13835,SeenWith,adversary,opponent,conservative,opponent,none,man,sibling
+1408,QID13834,SeenWith,daughter,baby,middle class person,republican,baby,creator,none
+1409,QID13833,IsA,father,man,addict,none,soldier,man,gangster
+1410,QID13832,IsA,dentist,orthodontist,banker,liberal,farmer,none,orthodontist
+1411,QID13831,IsA,rabbi,minister,supervisor,Mexican,minister,none,chairman
+1412,QID13830,SeenWith,father,man,consultant,none,man,patriot,attorney
+1413,QID13839,SeenWith,man,sentry,accountant,ambassador,blogger,none,sentry
+1414,QID13838,IsA,baby,daughter,Trump supporter,none,bachelor,daughter,friend
+1415,QID13455,SeenWith,winner,candidate,saint,archbishop,candidate,CEO,none
+1416,QID13454,SeenWith,man,sentry,none,consultant,sentry,husband,colonel
+1417,QID13454,SeenWith,man,husband,none,consultant,sentry,husband,colonel
+1418,QID13457,IsA,sinner,saint,none,saint,white man,princess,companion
+1419,QID13456,IsA,teacher,rabbi,idiot,guy,rabbi,defendant,none
+1420,QID13451,IsA,father,man,man,son,none,hostage,baker
+1421,QID13451,IsA,father,son,man,son,none,hostage,baker
+1422,QID13450,SeenWith,adversary,opponent,none,son,senator,opponent,teacher
+1423,QID13453,IsA,man,sentry,soldier,maid,none,Jew,sentry
+1424,QID13452,IsA,father,son,writer,senator,none,virgin,son
+1425,QID13459,IsA,sinner,saint,democrat,none,economist,saint,wife
+1426,QID13458,SeenWith,baby,daughter,none,homosexual person,leader,daughter,democrat
+1427,QID12690,IsA,son,father,supervisor,consultant,father,none,patient
+1428,QID12691,SeenWith,son,father,father,aunt,none,man,lady
+1429,QID12692,SeenWith,saint,sinner,sinner,loser,man,atheist,none
+1430,QID12693,IsA,adversary,opponent,opponent,none,hostage,neighbor,pimp
+1431,QID12694,SeenWith,daughter,baby,lawyer,chief,bully,baby,none
+1432,QID12695,IsA,rabbi,minister,none,guest,singer,minister,child
+1433,QID12696,IsA,dentist,orthodontist,fan,none,orthodontist,writer,liar
+1434,QID12697,SeenWith,adult,baby,none,baby,farmer,supervisor,employer
+1435,QID12698,SeenWith,rabbi,minister,juror,police officer,witness,none,minister
+1436,QID12699,SeenWith,saint,sinner,African American,blogger,none,architect,sinner
+1437,QID13587,IsA,winner,candidate,economist,extremist,thug,none,candidate
+1438,QID13586,SeenWith,son,father,victim,adult,none,president,father
+1439,QID13585,IsA,baby,adult,adult,winner,none,middle class person,reporter
+1440,QID13584,IsA,mother,dad,writer,dad,none,manager,idiot
+1441,QID13583,SeenWith,baby,adult,comedian,adult,none,drunk person,nurse
+1442,QID13582,SeenWith,father,brother,thief,wife,brother,none,husband
+1443,QID13581,SeenWith,mother,dad,none,minor,dad,hero,innocent person
+1444,QID13580,IsA,brother,father,father,maid,bride,none,expert
+1445,QID13589,IsA,maker,creator,creator,defendant,none,neighbor,racist
+1446,QID13588,IsA,friend,mother,musician,lady,partner,none,mother
+1447,QID13639,IsA,opponent,adversary,none,adversary,rich person,journalist,republican
+1448,QID13638,SeenWith,sentry,man,man,extremist,academic,none,brother
+1449,QID13635,SeenWith,dentist,orthodontist,manager,none,pimp,defendant,orthodontist
+1450,QID13634,IsA,colonel,dentist,none,guardian,warrior,dentist,sister
+1451,QID13637,IsA,father,brother,extremist,American,Baptist,brother,none
+1452,QID13636,IsA,wife,mother,fighter,rich person,none,mother,blogger
+1453,QID13631,IsA,mother,guardian,guy,guardian,none,friend,freak
+1454,QID13631,IsA,mother,friend,guy,guardian,none,friend,freak
+1455,QID13630,SeenWith,wife,mother,cousin,pastor,fan,mother,none
+1456,QID13633,IsA,colonel,dentist,artist,accountant,patient,dentist,none
+1457,QID13632,SeenWith,daughter,father,gunman,winner,father,none,adult
+1458,QID12469,SeenWith,mother,dad,husband,employee,farmer,none,dad
+1459,QID12468,SeenWith,dad,mother,supervisor,none,mentor,mother,host
+1460,QID12467,SeenWith,brother,father,none,chief,father,saint,clown
+1461,QID12466,SeenWith,baby,daughter,thug,liar,champion,daughter,none
+1462,QID12465,SeenWith,teacher,rabbi,lawyer,boxer,consultant,rabbi,none
+1463,QID12464,IsA,father,parent,none,parent,nephew,comedian,singer
+1464,QID12463,SeenWith,dentist,colonel,comedian,none,CEO,colonel,photographer
+1465,QID12462,SeenWith,adversary,opponent,none,friend,minor,gay person,opponent
+1466,QID12461,IsA,rabbi,teacher,farmer,governor,economist,teacher,none
+1467,QID12460,SeenWith,mother,guardian,worker,marine,none,guardian,neighbor
+1468,QID13121,IsA,saint,sinner,sinner,none,princess,intellectual,conservative
+1469,QID13120,IsA,teacher,rabbi,rabbi,none,mom,Baptist,attorney
+1470,QID13123,IsA,son,father,none,journalist,bachelor,African American,father
+1471,QID13122,IsA,father,son,attorney,blonde,kid,none,son
+1472,QID13125,SeenWith,saint,sinner,professor,defendant,none,sinner,bachelor
+1473,QID13124,IsA,winner,candidate,blogger,candidate,clown,police officer,none
+1474,QID13127,SeenWith,man,sentry,none,hooker,sentry,democrat,Jew
+1475,QID13126,SeenWith,adult,baby,none,academic,reporter,composer,baby
+1476,QID13129,IsA,mother,wife,alcoholic,none,wife,addict,daughter
+1477,QID13128,IsA,sentry,man,accountant,none,man,liar,adult
+1478,QID12997,IsA,teacher,rabbi,American,celebrity,none,democrat,rabbi
+1479,QID12996,IsA,brother,father,winner,employee,none,bride,father
+1480,QID12995,IsA,adult,baby,king,baby,patient,liar,none
+1481,QID12994,IsA,winner,candidate,candidate,economist,none,liberal,Trump supporter
+1482,QID12993,SeenWith,mother,friend,friend,racist,princess,none,blonde
+1483,QID12992,IsA,mother,dad,dad,professor,president,none,bride
+1484,QID12991,SeenWith,opponent,adversary,terrorist,tourist,worker,adversary,none
+1485,QID12990,SeenWith,rabbi,minister,actress,none,minister,archbishop,economist
+1486,QID12999,SeenWith,sinner,saint,academic,none,saint,Arab person,attorney
+1487,QID12998,SeenWith,dentist,orthodontist,priest,celebrity,none,clown,orthodontist
+1488,QID13028,IsA,dentist,colonel,none,scientist,Jew,celebrity,colonel
+1489,QID13029,SeenWith,father,man,socialist,none,man,clown,helper
+1490,QID13024,SeenWith,father,daughter,mechanic,leader,lawyer,daughter,none
+1491,QID13025,IsA,teacher,rabbi,sister,rabbi,prisoner,none,niece
+1492,QID13026,SeenWith,friend,mother,virgin,hero,sibling,none,mother
+1493,QID13027,IsA,teacher,rabbi,cousin,rabbi,black man,none,marine
+1494,QID13020,SeenWith,daughter,father,Arab person,composer,engineer,father,none
+1495,QID13021,SeenWith,colonel,dentist,bachelor,juror,dentist,leader,none
+1496,QID13022,IsA,sentry,man,child,secretary,none,kid,man
+1497,QID13023,IsA,mother,friend,entrepreneur,winner,governor,none,friend
+1498,QID12513,IsA,saint,sinner,none,sinner,prisoner,extremist,professional
+1499,QID12512,IsA,father,man,hostage,none,man,sheriff,millionaire
+1500,QID12511,SeenWith,baby,daughter,none,daughter,adult,fan,kid
+1501,QID12511,SeenWith,baby,adult,none,daughter,adult,fan,kid
+1502,QID12510,SeenWith,adversary,opponent,patient,none,virgin,opponent,physician
+1503,QID12517,SeenWith,brother,father,lawyer,black woman,none,father,senator
+1504,QID12516,SeenWith,guardian,mother,mom,mother,creator,Arab person,none
+1505,QID12515,SeenWith,parent,father,father,nurse,photographer,none,politician
+1506,QID12514,SeenWith,parent,father,lady,idiot,none,father,dad
+1507,QID12519,SeenWith,rabbi,teacher,cousin,doctor,prisoner,teacher,none
+1508,QID12518,SeenWith,friend,mother,bishop,mother,orthodontist,none,innocent person
+1509,QID12863,IsA,teacher,rabbi,rabbi,none,customer,champion,instructor
+1510,QID12863,IsA,teacher,instructor,rabbi,none,customer,champion,instructor
+1511,QID12862,IsA,mother,wife,wife,buddy,terrorist,none,middle class person
+1512,QID12861,IsA,father,daughter,daughter,gentleman,president,economist,none
+1513,QID12860,SeenWith,father,parent,parent,none,witness,actor,poor person
+1514,QID12867,IsA,parent,father,father,guest,none,intern,mayor
+1515,QID12866,IsA,man,father,witness,none,child,hooker,father
+1516,QID12866,IsA,man,child,witness,none,child,hooker,father
+1517,QID12865,SeenWith,parent,father,photographer,father,none,student,soldier
+1518,QID12864,IsA,sinner,saint,liberal,none,saint,guy,bishop
+1519,QID12869,SeenWith,rabbi,minister,employer,intern,minister,white man,none
+1520,QID12868,SeenWith,orthodontist,dentist,dentist,mechanic,none,addict,Muslim
+1521,QID13330,IsA,father,daughter,tutor,daughter,husband,none,parent
+1522,QID13330,IsA,father,parent,tutor,daughter,husband,none,parent
+1523,QID13331,IsA,orthodontist,dentist,none,intern,reporter,fan,dentist
+1524,QID13332,IsA,adversary,opponent,black man,opponent,geek,consultant,none
+1525,QID13333,IsA,father,son,son,mayor,reader,none,intern
+1526,QID13334,SeenWith,sentry,man,none,parent,tutor,mom,man
+1527,QID13335,SeenWith,man,sentry,sentry,none,spouse,intern,apprentice
+1528,QID13336,IsA,baby,daughter,minor,none,worker,daughter,Clinton supporter
+1529,QID13337,SeenWith,mother,wife,millionaire,mechanic,none,teenager,wife
+1530,QID13338,SeenWith,daughter,father,none,buddy,fighter,father,extremist
+1531,QID13339,IsA,rabbi,minister,Clinton supporter,none,minister,nephew,woman
+1532,QID13808,SeenWith,sinner,saint,baker,saint,cop,none,singer
+1533,QID13809,IsA,son,father,father,democrat,prince,homosexual person,none
+1534,QID13802,SeenWith,mother,wife,doctor,none,nephew,wife,sailor
+1535,QID13803,IsA,baby,adult,economist,bishop,white woman,none,adult
+1536,QID13800,SeenWith,daughter,father,father,architect,grandmother,teenager,none
+1537,QID13801,IsA,sinner,saint,none,dad,accountant,guy,saint
+1538,QID13806,IsA,baby,daughter,minority,none,daughter,nephew,spouse
+1539,QID13807,IsA,winner,candidate,friend,candidate,neighbor,none,host
+1540,QID13804,SeenWith,dentist,colonel,baker,companion,none,colonel,Hispanic person
+1541,QID13805,SeenWith,father,son,none,toddler,judge,drunk person,son
+1542,QID13741,IsA,brother,father,homosexual person,uncle,father,black man,none
+1543,QID13740,SeenWith,mother,dad,democrat,none,nephew,dad,Trump supporter
+1544,QID13749,SeenWith,orthodontist,dentist,Asian,patient,prince,none,dentist
+1545,QID13748,IsA,opponent,adversary,none,adversary,teenager,black man,writer
+1546,QID12303,SeenWith,baby,adult,governor,adult,terrorist,singer,none
+1547,QID12683,IsA,father,son,child,none,son,sister,guest
+1548,QID12682,IsA,daughter,father,guest,father,none,mistress,nurse
+1549,QID12681,SeenWith,dentist,orthodontist,none,attorney,orthodontist,executive,boy
+1550,QID12680,SeenWith,father,daughter,comedian,daughter,Asian,king,none
+1551,QID12687,IsA,parent,father,father,engineer,governor,none,toddler
+1552,QID12686,SeenWith,rabbi,minister,celebrity,grandmother,none,minister,boss
+1553,QID12685,SeenWith,orthodontist,dentist,bishop,hooker,dentist,none,chef
+1554,QID12684,SeenWith,sinner,saint,partner,employee,none,saint,executive
+1555,QID12689,IsA,minister,rabbi,nurse,chairman,singer,rabbi,none
+1556,QID12688,IsA,orthodontist,dentist,sailor,none,boyfriend,tutor,dentist
+1557,QID13488,IsA,mother,friend,friend,none,bride,intern,innocent person
+1558,QID13489,IsA,friend,mother,orthodontist,mother,cop,none,terrorist
+1559,QID13486,IsA,daughter,baby,none,pimp,baby,punk,chief
+1560,QID13487,IsA,wife,mother,senator,daughter,writer,none,mother
+1561,QID13484,SeenWith,creator,maker,king,maker,geek,none,black woman
+1562,QID13485,SeenWith,orthodontist,dentist,thief,freak,none,neighbor,dentist
+1563,QID13482,SeenWith,man,woman,jerk,none,sentry,woman,drunk person
+1564,QID13482,SeenWith,man,sentry,jerk,none,sentry,woman,drunk person
+1565,QID13483,SeenWith,candidate,winner,nurse,none,winner,toddler,archbishop
+1566,QID13480,SeenWith,wife,mother,man,adult,girlfriend,none,mother
+1567,QID13481,SeenWith,candidate,winner,none,partner,winner,photographer,athlete
+1568,QID12452,IsA,teacher,rabbi,minority,liberal,Baptist,rabbi,none
+1569,QID12453,SeenWith,father,son,millionaire,mayor,none,son,black man
+1570,QID12450,IsA,minister,rabbi,rabbi,professional,president,none,helper
+1571,QID12451,IsA,daughter,father,father,virgin,gay person,none,entrepreneur
+1572,QID12456,SeenWith,mother,wife,executive,paranoid person,genius,wife,none
+1573,QID12457,SeenWith,teacher,rabbi,rabbi,none,composer,alcoholic,freak
+1574,QID12454,SeenWith,mother,dad,none,dad,stud,sailor,teenager
+1575,QID12455,SeenWith,adversary,opponent,socialist,celebrity,girl,opponent,none
+1576,QID12458,SeenWith,creator,maker,engineer,maker,none,extremist,boyfriend
+1577,QID12459,SeenWith,baby,adult,actor,adult,police officer,entrepreneur,none
+1578,QID13154,IsA,brother,father,none,father,pupil,Arab person,helper
+1579,QID13155,SeenWith,daughter,father,professor,customer,father,captain,none
+1580,QID13156,IsA,man,sentry,liar,baker,none,sentry,maid
+1581,QID13157,IsA,dentist,colonel,paranoid person,marine,colonel,none,parent
+1582,QID13150,SeenWith,teacher,rabbi,none,mechanic,brother,rabbi,king
+1583,QID13151,IsA,friend,mother,mother,husband,none,neighbor,American
+1584,QID13152,IsA,mother,wife,genius,wife,brother,celebrity,none
+1585,QID13153,SeenWith,colonel,dentist,secretary,employer,none,dentist,intern
+1586,QID13158,IsA,winner,candidate,follower,none,executive,coach,candidate
+1587,QID13159,SeenWith,father,brother,companion,brother,captain,none,architect
+1588,QID13039,IsA,maker,creator,supervisor,none,boyfriend,white man,creator
+1589,QID13038,IsA,rabbi,teacher,Mexican,teacher,athlete,judge,none
+1590,QID13037,SeenWith,minister,rabbi,gangster,none,archbishop,rabbi,stranger
+1591,QID13036,IsA,teacher,rabbi,rabbi,none,alcoholic,customer,criminal
+1592,QID13035,IsA,daughter,baby,none,geek,villain,Baptist,baby
+1593,QID13034,SeenWith,son,father,father,entrepreneur,none,maid,white man
+1594,QID13033,SeenWith,sentry,man,artist,orthodontist,none,man,nurse
+1595,QID13032,SeenWith,mother,wife,none,aunt,poor person,liar,wife
+1596,QID13031,SeenWith,minister,rabbi,actress,surgeon,none,rabbi,groom
+1597,QID13030,SeenWith,mother,guardian,none,brother,lesbian,guardian,comedian
+1598,QID12526,IsA,guardian,mother,none,photographer,mother,Arab person,spouse
+1599,QID12527,SeenWith,mother,dad,wife,patriot,spouse,none,dad
+1600,QID12527,SeenWith,mother,wife,wife,patriot,spouse,none,dad
+1601,QID12524,IsA,maker,creator,lover,none,buddy,monk,creator
+1602,QID12525,SeenWith,creator,maker,governor,saint,none,sailor,maker
+1603,QID12522,SeenWith,teacher,rabbi,black woman,Mexican,none,rabbi,criminal
+1604,QID12523,SeenWith,mother,wife,cop,Clinton supporter,racist,none,wife
+1605,QID12520,IsA,minister,rabbi,rabbi,politician,criminal,none,worker
+1606,QID12521,SeenWith,teacher,rabbi,rabbi,none,sibling,manager,attorney
+1607,QID12528,SeenWith,adversary,opponent,none,opponent,artist,black person,pastor
+1608,QID12529,SeenWith,saint,sinner,toddler,engineer,sinner,principal,none
+1609,QID12856,SeenWith,adversary,opponent,opponent,none,adult,manager,middle class person
+1610,QID12857,IsA,winner,candidate,mayor,none,candidate,athlete,lover
+1611,QID12854,SeenWith,mother,dad,none,dad,hostage,professor,CEO
+1612,QID12855,SeenWith,daughter,father,aunt,executive,father,none,loser
+1613,QID12852,IsA,daughter,baby,mechanic,baby,none,guest,chairman
+1614,QID12853,SeenWith,sentry,man,man,white person,none,host,hero
+1615,QID12850,IsA,wife,mother,priest,mother,defendant,none,tutor
+1616,QID12851,IsA,father,son,none,follower,liar,saint,son
+1617,QID12858,SeenWith,dad,mother,none,stranger,intern,patriot,mother
+1618,QID12859,SeenWith,guardian,mother,mentor,none,priest,buddy,mother
+1619,QID13323,IsA,father,parent,parent,physician,none,engineer,bully
+1620,QID13322,SeenWith,maker,creator,boy,none,saint,racist,creator
+1621,QID13321,IsA,baby,adult,none,surgeon,adult,journalist,bride
+1622,QID13320,SeenWith,baby,daughter,principal,grandmother,minority,none,daughter
+1623,QID13327,SeenWith,winner,candidate,none,candidate,musician,chef,mechanic
+1624,QID13326,SeenWith,man,sentry,boyfriend,sentry,none,thug,stud
+1625,QID13325,SeenWith,winner,candidate,priest,mentor,banker,candidate,none
+1626,QID13324,IsA,dad,mother,cop,white woman,mother,none,intellectual
+1627,QID13329,SeenWith,father,son,adult,son,colleague,none,cop
+1628,QID13328,IsA,daughter,baby,king,actress,baby,none,rich person
+1629,QID12805,IsA,guardian,mother,niece,executive,creator,none,mother
+1630,QID12804,IsA,father,brother,brother,worker,none,senator,architect
+1631,QID12807,SeenWith,father,brother,none,addict,brother,helper,hooker
+1632,QID12806,IsA,mother,wife,wife,marine,sibling,spouse,none
+1633,QID12801,IsA,baby,adult,instructor,neighbor,sister,none,adult
+1634,QID12800,IsA,man,sentry,none,sentry,athlete,guardian,hero
+1635,QID12803,IsA,adversary,opponent,opponent,none,president,student,boxer
+1636,QID12802,IsA,brother,father,Trump supporter,none,rich person,father,American
