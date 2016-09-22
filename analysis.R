@@ -59,7 +59,7 @@ ggsave(paste0(paper_loc,"high_level_res_no_affect.jpeg"),w=7,h=3)
 scatterp <- melt(logistic_data[,c("query","simlexpair","questiontype","association_sqrt","logodds","SimLex999"),with=F],id=c("query","simlexpair","questiontype","logodds"))
 scatterp[variable == "association_sqrt"]$variable <- "Sqrt(Association)"
 scatterp[variable == "SimLex999"]$variable <- "Similarity"
-p <- ggplot(scatterp, aes(value,logodds)) + geom_point() + facet_grid(variable~questiontype) + ylab("Log Odds of Selection") + xlab("(Scaled and Centered) Similarity or Association")
+p <- ggplot(scatterp, aes(value,logodds)) + geom_point() + facet_grid(variable~questiontype) + ylab("Log Odds of Selection") + xlab("(Scaled and Centered) Similarity or Sqrt(Association)")
 ggsave(paste0(paper_loc,"eda3.png"),height=7,width=8,p)
 
 #################################
